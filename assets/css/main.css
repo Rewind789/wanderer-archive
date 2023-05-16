@@ -1,1 +1,91 @@
+html {
+	margin-right: 200px;
+	margin-left: 200px;
+	padding: 0;
+	text-align: justify;
+	background: #EADEB8; 
+}
 
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #8E3200; 
+	background: #EADEB8; 
+	margin: 0; 
+	padding: 0;
+}
+
+p {
+	margin-top: 0;
+}
+
+h2 {
+	font: bold normal 1.4m georgia, sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 0;
+	color: #6c584c;
+	text-align: center;
+}
+
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #6c584c;
+	text-align: center;
+}
+
+a:link {
+	font-weight: bold;
+	text-decoration: none;
+	color: #A09F57;
+}
+
+a:visited {
+	font-weight: bold;
+	text-decoration: none;
+	color: #A09F57;
+}
+
+a:hover, a:focus, a:active {
+	text-decoration: none;
+	color: #C56824;
+	background: #CFB784;
+}
+
+abbr {
+	border-bottom: none;
+	text-decoration: #CFB784 dotted underline;
+	color: #8E3200;
+	text-weight: bold;
+}
+
+def {
+	color: #A64B2A;
+}
+
+header {
+	padding-top: 20px;
+	height: 87px;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
+footer a:link, footer a:visited {
+	margin-right: 20px;
+}
+
+h1 {
+	font-family: 'Times';
+	text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+	html {
+		margin-right: 50px;
+		margin-left: 50px;
+	}
+}
