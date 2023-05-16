@@ -1,6 +1,4 @@
-<head>
-  <h1>The Wanderer</h1>
-</head>
+<h1>The Wanderer</h1>
 
 <body>
   <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
