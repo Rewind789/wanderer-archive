@@ -1,4 +1,3 @@
-<h1>The Town</h1>
 
 <body>
   <h1>The Town</h1>
