@@ -46,18 +46,18 @@ h3 {
 a:link {
 	font-weight: bold;
 	text-decoration: none;
-	color: #A09F57;
+	color: #EB3D3D;
 }
 
 a:visited {
 	font-weight: bold;
 	text-decoration: none;
-	color: #A09F57;
+	color: #DC3939;
 }
 
 a:hover, a:focus, a:active {
 	text-decoration: none;
-	color: #C56824;
+	color: #EB3D3D;
 	background: #C91F1F;
 }
 
