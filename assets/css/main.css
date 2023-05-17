@@ -10,7 +10,7 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #8E3200; 
-	background: #6CA3DE; 
+	background: #FFFFFF; 
 	margin: 0; 
 	padding: 0;
 }
@@ -23,7 +23,7 @@ h2 {
 	font: bold normal 1.4m georgia, sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
-	color: #6c584c;
+	color: #FFFFFF;
 	text-align: center;
 }
 
@@ -31,7 +31,7 @@ h3 {
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #6c584c;
+	color: #FFFFFF;
 	text-align: center;
 }
 
