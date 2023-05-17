@@ -1,3 +1,7 @@
+<head>
+  <title>Waderer's Archive</title>
+  <link href="assets/css/main.css" rel="stylesheet" type="text/css">
+</head>
 <h1>The Wanderer</h1>
 
 <body>
