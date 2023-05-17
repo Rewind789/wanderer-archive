@@ -1,3 +1,8 @@
+@font-face {
+	font-family: Brightwall;
+	src: url("/wanderer-archive/assets/fonts/Brightwall.ttf")
+}
+
 html {
 	margin-right: 200px;
 	margin-left: 200px;
