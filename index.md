@@ -11,7 +11,9 @@
   <hr class="divider_one">
   <h2 class="subtitles">Notes</h2>
   <h3 class="intro"><b><a href="https://rewind789.github.io/wanderer-archive/notes/year-9.html">Year 9</a></b></h3>
-  <hr class="divider_one">
+  
+  <p>Updated soon, there will be entries to the diary of The Wanderer. Scrolls of notes are written and documented whenever I have the time. <br> Sorry for any inconvenience~
+  frequently check the website for more information. Have fun in the library, try not to get lost~</p>
   <p>Leaving so quickly? Well then, goodbye my visitors. Come back often, to refill your knowledge, to restock your energy, to rest your mind. Enjoy!</p>
   <p>Also remember to check out my <a href="https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f">iventory</a>, where my scrolls are carefully organised and written.</p>
   
