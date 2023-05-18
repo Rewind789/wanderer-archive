@@ -48,6 +48,16 @@ h3 {
 	text-align: left;
 }
 
+
+h10 {
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 0;
+	color: #FFFFFF;
+	margin-left: 50px;
+	text-align: left;
+}
+
 a:link {
 	font-weight: bold;
 	text-decoration: none;
@@ -90,6 +100,7 @@ footer {
 footer a:link, footer a:visited {
 	margin-right: 20px;
 }
+
 
 h1 {
 	font-family: 'Times';
