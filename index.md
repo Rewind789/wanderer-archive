@@ -13,6 +13,7 @@
   <h2 class="subtitles">Notes</h2>
   <h3 class="intro"><b><a href="https://rewind789.github.io/wanderer-archive/notes/year-9.html">Year 9</a></b></h3>
   
+  <br>
   <p>Updated soon, there will be entries to the diary of The Wanderer. Scrolls of notes are written and documented whenever I have the time. <br> Sorry for any inconvenience~
   frequently check the website for more information. Have fun in the library, I'll make a map soon, so try not to get lost~</p>
   
