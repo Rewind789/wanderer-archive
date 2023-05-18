@@ -6,7 +6,8 @@
 
 <body>
   <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
-  <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library.</p>
+  <br>
+  <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~</p>
   <p>My inventory and libraries are currently in an establisment within <a href="/wanderer-archive/the-town.html">The Town</a>, an oasis, where I let my mind rest, and wander no further anymore.</p>
   <hr class="divider_one">
   <h2 class="subtitles">Notes</h2>
