@@ -1,7 +1,6 @@
 <head>
   <title>Waderer's Archive</title>
   <link href="assets/css/main.css" rel="stylesheet" type="text/css">
-  <link rel="shortcut icon" type="image/jpg" href="/assets/images/favicon.png"/>
 </head>
 <h1>The Wanderer</h1>
 
