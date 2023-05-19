@@ -21,6 +21,62 @@ html {
   overflow: auto;
 }
 
+.lis {
+  display: inline-block;
+  list-style: none;
+}
+
+.barzone {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: green; /*backup colour: #dcedf6*/
+  margin: 6px 35px;
+  transition: 0.5s;
+}
+
+.showNav .bar1 {
+  -webkit-transform: rotate(-45deg);
+  transform: translate(-5px, 12px) rotate(-45deg);
+}
+.showNav .bar2 {
+  opacity: 0;
+}
+
+.showNav .bar3 {
+  -webkit-transform: rotate(45deg);
+  transform: translate(-5px, -10px) rotate(45deg);
+}
+html, body {
+  height: 100%;
+}
+
+.blur {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+.showNav .blur {
+  display: block;
+}
+
+.topNav a {
+  font-size: 200%;
+}
+
+
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
