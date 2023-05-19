@@ -27,7 +27,7 @@ m.parentNode.insertBefore(w, m), w = null}
   <div class="bar2"></div>
   <div class="bar3"></div>
   </div>
-  <p class="headTitle" style="color: black"><strong><span style="color: green">Wanderer</span> Archive</strong</p>
+  <p class="headTitle" style="color: black"><strong><span style="color: #EB3D3D">Wanderer</span> Archive</strong</p>
   </div>
   <div class="nav" id="nav">
     <br>
