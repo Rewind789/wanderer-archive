@@ -2,7 +2,12 @@
 <head>
   <title>Wanderer's Archive</title>
   <link href="assets/css/main.css" rel="stylesheet" type="text/css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+  <script src="https://kit.fontawesome.com/a9576c305f.js" crossorigin="anonymous"></script>
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 </head>
+
 
 <script>
 (function (a, d, o, r, i, c, u, p, w, m) {
@@ -16,16 +21,17 @@ m.parentNode.insertBefore(w, m), w = null}
 )(window, document, "script", "https://72742793.adoric-om.com/adoric.js", "Adoric_Script", "adoric","f834f68b9398417deb79b1169df879af", "data-key");
 </script>
 
-<div class="header">
-  <div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
-  <div class="bar1"></div>
-  <div class="bar2"></div>
-  <div class="bar3"></div>
-  </div>
-  <p class="headTitle" style="color: black"><strong><span style="color: #EB3D3D">Wanderer</span> Archive</strong</p>
-</div>
-
 <body>
+  <div class="header">
+    <div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
+    <div class="bar1"></div>
+    <div class="bar2"></div>
+    <div class="bar3"></div>
+    </div>
+    <p class="headTitle" style="color: black"><strong><span style="color: #EB3D3D">Wanderer</span> Archive</strong</p>
+  </div>
+  
+  
   <div class="nav" id="nav">
     <br>
     <br>
