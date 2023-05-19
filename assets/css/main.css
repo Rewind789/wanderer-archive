@@ -14,8 +14,8 @@ html {
 .nav {
   background-color: #EB3D3D;
   position: fixed;
-  width: 25%;
-  margin-top: -200px;
+  width: 10%;
+  margin-top: -500px;
   margin-left: -200px;
   height: 110%;
   transform: 0.5s;
