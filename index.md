@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html id="home">
+
 <head>
   <title>Waderer's Archive</title>
   <link href="assets/css/main.css" rel="stylesheet" type="text/css">
