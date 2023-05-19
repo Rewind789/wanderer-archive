@@ -11,6 +11,16 @@ html {
 	background: #1b1d4a; 
 }
 
+.nav {
+  background-color: #008E02;
+  position: fixed;
+  width: 25%;
+  margin-top: -25px;
+  height: 110%;
+  transform: 0.5s;
+  overflow: auto;
+}
+
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
