@@ -45,11 +45,11 @@ m.parentNode.insertBefore(w, m), w = null}
     </li>
     <br>
     <li class="lis">
-    <button class="normal"><a href="/wanderer-archive/index.html">Creator</a></button>
+    <button class="normal" style="color: white" style="background-color: #EB3D3D"><a href="/wanderer-archive/index.html">Creator</a></button>
     </li>
     <br>
     <li class="lis">
-    <button class="normal"><a href="/wanderer-archive/index.html">Chat (Coming soon)</a></button>
+    <button class="normal" style="color:white" style="background-color: #EB3D3D"><a href="/wanderer-archive/index.html">Chat (Coming soon)</a></button>
     </li>
     <br>
     <li class="lis">
