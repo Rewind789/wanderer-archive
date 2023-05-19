@@ -37,7 +37,7 @@ m.parentNode.insertBefore(w, m), w = null}
     <br>
     <br>
     <br>
-    <p class="name"><strong>Navigation Bar</strong></p>
+    <h1 class="name"><strong>Navigation Bar</strong></h1>
     <br>
     <ul class="topNav">
     <li class="lis">
