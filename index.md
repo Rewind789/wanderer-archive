@@ -11,7 +11,7 @@
   <div class="bar2"></div>
   <div class="bar3"></div>
   </div>
-  <p class="headTitle" style="color: black"><strong><span style="color: green">Stick</span>It</strong></p>
+  <p class="headTitle" style="color: black"><strong><span style="color: green">Wanderer's</span> Archive</strong</p>
   </div>
   <div class="nav" id="nav">
     <br>
