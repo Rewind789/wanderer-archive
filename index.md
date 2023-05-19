@@ -4,9 +4,6 @@
   <link href="assets/css/main.css" rel="stylesheet" type="text/css">
 </head>
 
-
-<h1>The Wanderer</h1>
-
 <script>
 (function (a, d, o, r, i, c, u, p, w, m) {
 m = d.getElementsByTagName(o)[0], a[c] = a[c]
@@ -19,16 +16,16 @@ m.parentNode.insertBefore(w, m), w = null}
 )(window, document, "script", "https://72742793.adoric-om.com/adoric.js", "Adoric_Script", "adoric","f834f68b9398417deb79b1169df879af", "data-key");
 </script>
 
-
-<body>
-  <div class="header">
+<div class="header">
   <div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
   <div class="bar1"></div>
   <div class="bar2"></div>
   <div class="bar3"></div>
   </div>
   <p class="headTitle" style="color: black"><strong><span style="color: #EB3D3D">Wanderer</span> Archive</strong</p>
-  </div>
+</div>
+
+<body>
   <div class="nav" id="nav">
     <br>
     <br>
