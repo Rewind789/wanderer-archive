@@ -43,7 +43,7 @@ m.parentNode.insertBefore(w, m), w = null}
     <br>
     <ul class="topNav">
     <li class="lis">
-    <button class="normal"><a href="/wanderer-archive/index.html">Archive Entrance</a></button>
+    <button class="normal" style= "color: white" style= "background-color: #EB3D3D"><a href="/wanderer-archive/index.html">Archive Entrance</a></button>
     </li>
     <br>
     <li class="lis">
