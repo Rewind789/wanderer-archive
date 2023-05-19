@@ -42,16 +42,16 @@ m.parentNode.insertBefore(w, m), w = null}
     </li>
     <br>
     <li class="lis">
-    <button class="normal"><a href="/wanderer-archive/index.html">About</a></button>
+    <button class="normal"><a href="/wanderer-archive/index.html">Creator</a></button>
     </li>
     <br>
     <li class="lis">
-    <button class="normal"><a href="/wanderer-archive/index.html">Buy Stickers</a></button>
+    <button class="normal"><a href="/wanderer-archive/index.html">Chat (Coming soon)</a></button>
     </li>
     </li>
     <br>
     <li class="lis">
-    <button class="normal"><a href="/wanderer-archive/index.html">Contact Us</a></button>
+    <button class="normal"><a href="[/wanderer-archive/index.html](https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f)">Inventory</a></button>
     </li>
     </ul>
 </div>
