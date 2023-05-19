@@ -21,6 +21,8 @@ m.parentNode.insertBefore(w, m), w = null}
 )(window, document, "script", "https://72742793.adoric-om.com/adoric.js", "Adoric_Script", "adoric","f834f68b9398417deb79b1169df879af", "data-key");
 </script>
 
+<script src="script.js"></script>
+  
 <body>
   <div class="header">
     <div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
@@ -68,8 +70,7 @@ m.parentNode.insertBefore(w, m), w = null}
 
     </div>
 </div-->
-<script src="script.js"></script>
-  
+
   <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
   <br>
   <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~</p>
