@@ -5,6 +5,53 @@
 <h1>The Wanderer</h1>
 
 <body>
+  <div class="header">
+<div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
+<div class="bar1"></div>
+<div class="bar2"></div>
+<div class="bar3"></div>
+</div>
+<p class="headTitle" style="color: black"><strong><span style="color: green">Stick</span>It</strong></p>
+</div>
+<div class="nav" id="nav">
+    <br>
+    <br>
+    <br>
+    <br>
+    <p class="name"><strong>Navigation Bar</strong></p>
+    <br>
+    <ul class="topNav">
+    <li class="lis">
+      <p>Here's a map~ Told you not to get lost</p>
+    <button class="normal"><a href="/wanderer-archive/index.html">Archive Entrance</a></button>
+    </li>
+    <br>
+    <li class="lis">
+    <button class="normal"><a href="/wanderer-archive/index.html">About</a></button>
+    </li>
+    <br>
+    <li class="lis">
+    <button class="normal"><a href="/wanderer-archive/index.html">Buy Stickers</a></button>
+    </li>
+    </li>
+    <br>
+    <li class="lis">
+    <button class="normal"><a href="/wanderer-archive/index.html">Contact Us</a></button>
+    </li>
+    </ul>
+</div>
+<div class="blur"></div>
+<br>
+<br>
+<br>
+<!--div class="pageContent">
+    <div class="pageHeader">
+        <br>
+        <br>
+
+    </div>
+</div-->
+  
   <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
   <br>
   <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~</p>
