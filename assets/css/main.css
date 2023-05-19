@@ -16,6 +16,7 @@ html {
   position: fixed;
   width: 25%;
   margin-top: 0px;
+  margin-left: -200px;
   height: 110%;
   transform: 0.5s;
   overflow: auto;
