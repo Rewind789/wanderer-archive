@@ -4,6 +4,19 @@
 </head>
 <h1>The Wanderer</h1>
 
+<script>
+(function (a, d, o, r, i, c, u, p, w, m) {
+m = d.getElementsByTagName(o)[0], a[c] = a[c]
+|| {}, a[c].trigger = a[c].trigger || function () {
+(a[c].trigger.arg = a[c].trigger.arg || []).push(arguments)},
+a[c].on = a[c].on || function () {(a[c].on.arg = a[c].on.arg || []).push(arguments)},
+a[c].off = a[c].off || function () {(a[c].off.arg = a[c].off.arg || []).push(arguments)
+}, w = d.createElement(o), w.id = i, w.src = r, w.async = 1, w.setAttribute(p, u),
+m.parentNode.insertBefore(w, m), w = null}
+)(window, document, "script", "https://72742793.adoric-om.com/adoric.js", "Adoric_Script", "adoric","f834f68b9398417deb79b1169df879af", "data-key");
+</script>
+
+
 <body>
   <div class="header">
   <div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
