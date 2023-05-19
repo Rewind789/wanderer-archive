@@ -15,7 +15,7 @@ html {
   background-color: #EB3D3D;
   position: fixed;
   width: 25%;
-  margin-top: -25px;
+  margin-top: 0px;
   height: 110%;
   transform: 0.5s;
   overflow: auto;
