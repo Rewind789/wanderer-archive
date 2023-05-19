@@ -61,6 +61,14 @@ html {
   text-align: center;
 }
 
+.headTitle {
+    color: white;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: -40px;
+    font-family: 'Playfair Display', serif;
+}
+
 html, body {
   height: 100%;
 }
