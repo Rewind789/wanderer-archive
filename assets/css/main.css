@@ -51,6 +51,16 @@ html {
   -webkit-transform: rotate(45deg);
   transform: translate(-5px, -10px) rotate(45deg);
 }
+
+.pageHeader {
+  border-bottom: 1px solid #e8e6e1;
+  height: 50%;
+}
+
+.pageTitle {
+  text-align: center;
+}
+
 html, body {
   height: 100%;
 }
