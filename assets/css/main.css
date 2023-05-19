@@ -12,7 +12,7 @@ html {
 }
 
 .nav {
-  background-color: #008E02;
+  background-color: #EB3D3D;
   position: fixed;
   width: 25%;
   margin-top: -25px;
@@ -34,7 +34,7 @@ html {
 .bar1, .bar2, .bar3 {
   width: 35px;
   height: 5px;
-  background-color: green; /*backup colour: #dcedf6*/
+  background-color: #EB3D3D; /*backup colour: #dcedf6*/
   margin: 6px 35px;
   transition: 0.5s;
 }
@@ -66,7 +66,7 @@ html {
     font-size: 25px;
     margin-left: 100px;
     margin-top: -40px;
-    font-family: 'Playfair Display', serif;
+    font-family: georgia, sans-serif;
 }
 
 html, body {
