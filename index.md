@@ -6,14 +6,14 @@
 
 <body>
   <div class="header">
-<div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
-<div class="bar1"></div>
-<div class="bar2"></div>
-<div class="bar3"></div>
-</div>
-<p class="headTitle" style="color: black"><strong><span style="color: green">Stick</span>It</strong></p>
-</div>
-<div class="nav" id="nav">
+  <div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+  </div>
+  <p class="headTitle" style="color: black"><strong><span style="color: green">Stick</span>It</strong></p>
+  </div>
+  <div class="nav" id="nav">
     <br>
     <br>
     <br>
@@ -22,7 +22,6 @@
     <br>
     <ul class="topNav">
     <li class="lis">
-      <p>Here's a map~ Told you not to get lost</p>
     <button class="normal"><a href="/wanderer-archive/index.html">Archive Entrance</a></button>
     </li>
     <br>
