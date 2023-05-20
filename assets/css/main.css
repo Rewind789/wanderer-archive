@@ -36,7 +36,7 @@ html {
   width: 35px;
   height: 5px;
   background-color: #EB3D3D; /*backup colour: #dcedf6*/
-  margin: 6px 35px;
+  margin: 6px -200px;
   transition: 0.5s;
 }
 
@@ -65,7 +65,7 @@ html {
 .headTitle {
     color: white;
     font-size: 25px;
-    margin-left: -200px;
+    margin-left: -150px;
     margin-top: -40px;
     font-family: georgia, sans-serif;
 }
