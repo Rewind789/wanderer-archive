@@ -16,7 +16,7 @@ html {
   position: fixed;
   width: 22%;
   margin-top: -40px;
-  margin-left: -250px;
+  margin-left: -300px;
   height: 110%;
   transform: 0.5s;
   overflow: auto;
@@ -36,7 +36,7 @@ html {
   width: 35px;
   height: 5px;
   background-color: #EB3D3D; /*backup colour: #dcedf6*/
-  margin: 6px -245px;
+  margin: 6px -275px;
   transition: 0.5s;
 }
 
