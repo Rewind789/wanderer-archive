@@ -38,7 +38,6 @@ html {
   background-color: #EB3D3D; /*backup colour: #dcedf6*/
   margin: 6px -275px;
   transition: 0.5s;
-  position: fixed;
 }
 
 .showNav .bar1 {
@@ -69,7 +68,6 @@ html {
     margin-left: -150px;
     margin-top: -40px;
     font-family: georgia, sans-serif;
-    position: fixed;
 }
 
 html, body {
