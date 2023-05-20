@@ -15,7 +15,7 @@ html {
   background-color: #EB3D3D;
   position: fixed;
   width: 22%;
-  margin-top: -45px;
+  margin-top: -40px;
   margin-left: -225px;
   height: 110%;
   transform: 0.5s;
@@ -65,7 +65,7 @@ html {
 .headTitle {
     color: white;
     font-size: 25px;
-    margin-left: 100px;
+    margin-left: -200px;
     margin-top: -40px;
     font-family: georgia, sans-serif;
 }
