@@ -26,5 +26,4 @@
   <p>Also remember to check out my <a href="https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f">iventory</a>, where my scrolls are carefully organised and written.</p>
   
   <p>Have fun in this library! <br> ~Kiefer Yuen</p>
-</body>
 
