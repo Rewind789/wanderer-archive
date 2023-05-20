@@ -9,68 +9,6 @@
 </head>
 
 
-<script>
-(function (a, d, o, r, i, c, u, p, w, m) {
-m = d.getElementsByTagName(o)[0], a[c] = a[c]
-|| {}, a[c].trigger = a[c].trigger || function () {
-(a[c].trigger.arg = a[c].trigger.arg || []).push(arguments)},
-a[c].on = a[c].on || function () {(a[c].on.arg = a[c].on.arg || []).push(arguments)},
-a[c].off = a[c].off || function () {(a[c].off.arg = a[c].off.arg || []).push(arguments)
-}, w = d.createElement(o), w.id = i, w.src = r, w.async = 1, w.setAttribute(p, u),
-m.parentNode.insertBefore(w, m), w = null}
-)(window, document, "script", "https://72742793.adoric-om.com/adoric.js", "Adoric_Script", "adoric","f834f68b9398417deb79b1169df879af", "data-key");
-</script>
-
-<script src="script.js"></script>
-  
-<body>
-  <div class="header">
-    <div id="barzone" class="barzone" style="margin-top: 10px;" onclick="showNav(this)">
-    <div class="bar1"></div>
-    <div class="bar2"></div>
-    <div class="bar3"></div>
-    </div>
-    <p class="headTitle" style="color: white"><strong><span style="color: #EB3D3D">Wanderer</span> Archive</strong></p>
-  </div>
-  
-  
-  <div class="nav" id="nav">
-    <br>
-    <br>
-    <br>
-    <br>
-    <h1 class="name"><strong>Navigation Bar</strong></h1>
-    <br>
-    <ul class="topNav">
-    <li class="lis">
-    <button class="normal" style= "color: white" style= "background-color: #EB3D3D"><a href="/wanderer-archive/index.html">Archive Entrance</a></button>
-    </li>
-    <br>
-    <li class="lis">
-    <button class="normal" style="color: white" style="background-color: #EB3D3D"><a href="/wanderer-archive/index.html">Creator</a></button>
-    </li>
-    <br>
-    <li class="lis">
-    <button class="normal" style="color:white" style="background-color: #EB3D3D"><a href="/wanderer-archive/index.html">Chat (Coming soon)</a></button>
-    </li>
-    <br>
-    <li class="lis">
-    <button class="normal"><a href="https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f">Inventory</a></button>
-    </li>
-    </ul>
-</div>
-<div class="blur"></div>
-<br>
-<br>
-<br>
-<!--div class="pageContent">
-    <div class="pageHeader">
-        <br>
-        <br>
-
-    </div>
-</div-->
-
   <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
   <br>
   <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~</p>
