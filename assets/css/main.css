@@ -15,9 +15,9 @@ html {
   background-color: #EB3D3D;
   position: fixed;
   width: 22%;
-  margin-top: -250px;
-  margin-left: -200px;
-  height: 110%;
+  margin-top: -150px;
+  margin-left: -225px;
+  height: 1500%;
   transform: 0.5s;
   overflow: auto;
 }
