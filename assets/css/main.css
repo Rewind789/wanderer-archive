@@ -38,6 +38,7 @@ html {
 .lis {
   display: inline-block;
   list-style: none;
+  color: #ffffff;
 }
 
 .barzone {
@@ -246,7 +247,7 @@ h1 {
 }
 
 .normal:hover {
-  border-bottom: 3px solid white;
+  border-bottom: 3px solid #ffffff;
   color: #1b1d4a;
 }
 .normal {
@@ -255,5 +256,5 @@ h1 {
   background-color: #EB3D3D;
   transition-duration: 0.5s;
   overflow: auto;
-  color: white;
+  color: #ffffff;
 }
