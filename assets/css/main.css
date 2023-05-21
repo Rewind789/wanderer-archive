@@ -247,6 +247,7 @@ h1 {
 
 .normal:hover {
   border-bottom: 3px solid white;
+  color: #1b1d4a;
 }
 .normal {
   border-width: 0px;
@@ -254,4 +255,5 @@ h1 {
   background-color: #EB3D3D;
   transition-duration: 0.5s;
   overflow: auto;
+  color: white;
 }
