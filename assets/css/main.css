@@ -244,3 +244,14 @@ h1 {
 .topNav .a {
 	font-size: 200%;
 }
+
+.normal:hover {
+  border-bottom: 3px solid white;
+}
+.normal {
+  border-width: 0px;
+  /*background-color: #007bbf;*/
+  background-color: #EB3D3D;
+  transition-duration: 0.5s;
+  overflow: auto;
+}
