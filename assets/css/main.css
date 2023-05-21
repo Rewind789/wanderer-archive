@@ -64,6 +64,10 @@ html {
   transform: translate(-5px, -10px) rotate(45deg);
 }
 
+.showNav .blur {
+	display: block;
+}
+
 .pageHeader {
   border-bottom: 1px solid #e8e6e1;
   height: 50%;
@@ -221,4 +225,20 @@ h1 {
 		margin-right: 50px;
 		margin-left: 50px;
 	}
+}
+
+@media only screen and (max-device-width: 1366px) {
+  .nav {
+    background-color: #008E02;
+    position: fixed;
+    width: 80%;
+    margin-top: -25px;
+    height: 110%;
+    transform: 0.5s;
+    overflow: auto;
+  }
+}
+
+.topNav .a {
+	font-size: 200%;
 }
