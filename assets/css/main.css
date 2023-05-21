@@ -169,6 +169,11 @@ a:hover, a:focus, a:active {
 	background: #FFFFFF;
 }
 
+a:hover {
+	box-shadow: inset 100px 0 0 0 #993C19;
+	color: #1b1d4a;
+}
+
 abbr {
 	border-bottom: none;
 	text-decoration: #CFB784 dotted underline;
