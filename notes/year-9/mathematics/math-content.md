@@ -3,5 +3,4 @@
 </head>
  
 # Math Content
-- Parabolas
-- Quadratics
+## In this place you'll find many important archives relating to math! Have fun~
