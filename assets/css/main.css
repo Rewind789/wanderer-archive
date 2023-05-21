@@ -161,6 +161,20 @@ h10 {
 	text-align: left;
 }
 
+.normal:hover {
+  border-bottom: 3px solid #ffffff;
+  color: #1b1d4a;
+}
+.normal {
+  border-width: 0px;
+  /*background-color: #007bbf;*/
+  background-color: #EB3D3D;
+  transition-duration: 0.5s;
+  overflow: auto;
+  color: #ffffff;
+}
+
+
 a {
 	box-shadow: inset 0 0 0 0 #FFFFFF;
 	color: #1b1d4a;
@@ -246,15 +260,3 @@ h1 {
 	font-size: 200%;
 }
 
-.normal:hover {
-  border-bottom: 3px solid #ffffff;
-  color: #1b1d4a;
-}
-.normal {
-  border-width: 0px;
-  /*background-color: #007bbf;*/
-  background-color: #EB3D3D;
-  transition-duration: 0.5s;
-  overflow: auto;
-  color: #ffffff;
-}
