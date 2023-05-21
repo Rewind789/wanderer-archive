@@ -143,9 +143,9 @@ h10 {
 	text-align: left;
 }
 
-a{
+a {
 	box-shadow: inset 0 0 0 0 #FADE8F;
-	color: #993C19;
+	color: #1b1d4a;
 	margin: 0 -.25rem;
 	padding: 0 .25rem;
 	transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
