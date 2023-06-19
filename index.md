@@ -23,7 +23,7 @@
   
   <br>
   <p>Leaving so quickly? Well then, goodbye my visitors. Come back often, to refill your knowledge, to restock your energy, to rest your mind. Enjoy!</p>
-  <p>Also remember to check out my <a href="https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f">iventory</a>, where my scrolls are carefully organised and written.</p>
+  <p>Also remember to check out my <a href="https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f">inventory</a>, where my scrolls are carefully organised and written.</p>
   
   <p>Have fun in this library! <br> ~Kiefer Yuen</p>
 
