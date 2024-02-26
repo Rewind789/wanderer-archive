@@ -1,6 +1,7 @@
 ---
 title: The Town
 ---
+# The Town
 
 There are 21 people in the town... some people left I guess? ¯\_(ツ)_/¯
 
