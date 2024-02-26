@@ -113,12 +113,12 @@ html, body {
 }
 
 .topNav a {
-  font-size: 200%;
+  font-size: 300%;
 }
 
 
 body { 
-	font: 100%;
+	font: 200%;
 	font-family:'Open Sans';
 	line-height: 1.88889;
 	color: #f0f9ff; 
@@ -261,6 +261,6 @@ h1 {
 }
 
 .topNav .a {
-	font-size: 200%;
+	font-size: 300%;
 }
 
