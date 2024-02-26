@@ -14,8 +14,9 @@
   <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~</p>
   <p>My inventory and libraries are currently in an establisment within <a href="/wanderer-archive/the-town.html">The Town</a>, an oasis, where I let my mind rest, and wander no further anymore.</p>
   <hr class="divider_one">
-  <h2 class="subtitles">Notes</h2>
-  <h3 class="intro"><b><a href="https://rewind789.github.io/wanderer-archive/notes/year-9.html">Year 9</a></b></h3>
+  <h2 class="subtitles">Navigations</h2>
+  <h3 class="intro"><b><a href="https://rewind789.github.io/wanderer-archive/notes.md">Notes</a></b></h3>
+  <h3 class="intro"><b><a href="https://rewind789.github.io/wanderer-archive/ramblings.md">Articles/Rants</a></b></h3>
   
   <br>
   <p>I only do this when I have time or more notes.... year 10 notes soon...(I just started >.<) <br>
