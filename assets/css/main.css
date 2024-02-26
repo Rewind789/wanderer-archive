@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap')
 @font-face {
 	font-family: Brightwall;
 	src: url("/wanderer-archive/assets/fonts/Brightwall.ttf")
@@ -9,6 +10,7 @@ html {
 	padding: 0;
 	text-align: justify;
 	background: #1b1d4a; 
+	font-family: 'Open Sans';
 }
 
 .header {
@@ -21,6 +23,7 @@ html {
   opacity: 0.8;
   /*opacity: 0.8;*/
   border-bottom: 1px solid #e8e6e1;
+  font-family: 'Open Sans';
 }
 
 .nav {
@@ -85,7 +88,7 @@ html {
     font-size: 25px;
     margin-left: -150px;
     margin-top: -40px;
-    font-family: georgia, sans-serif;
+    font-family: 'Open Sans';
 }
 
 html, body {
@@ -115,7 +118,8 @@ html, body {
 
 
 body { 
-	font: 75% georgia, sans-serif;
+	font: 75%;
+	font-family:'Open Sans';
 	line-height: 1.88889;
 	color: #f0f9ff; 
 	background: #1b1d4a; 
@@ -131,7 +135,7 @@ p {
 
 h1 {
 	color: #FFFFFF;
-	font-family: 'Brightwall';
+	font-family: 'Open Sans';
 }
 h2 {
 	font: bold normal 1.4m georgia, sans-serif;
