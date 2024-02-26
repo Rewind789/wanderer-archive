@@ -3,4 +3,4 @@
 </head>
  
 # Math Content
-## In this place you'll find many important archives relating to math! Have fun~
+In this place you'll find many important archives relating to math! Have fun~
