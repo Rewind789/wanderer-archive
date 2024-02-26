@@ -19,7 +19,7 @@
   <hr class="divider_one">
   <h2 class="subtitles">Navigations</h2>
   <h3 class="intro"><b><a href="notes.html">Notes</a></b></h3>
-  <h3 class="intro"><b><a href="ramblings.html">Articles/Rants</a></b></h3>
+  <h3 class="intro"><b><a href="rants.html">Articles/Rants</a></b></h3>
   <br>
   <p>I only do this when I have time or more notes.... year 10 notes soon...(I just started >.<) <br>
   frequently check the website for more information. Have fun in the library, I'll make a map soon, so try not to get lost~</p>
