@@ -1,5 +1,5 @@
 ---
-title: The Town
+title: "The Town"
 ---
 # The Town
 
