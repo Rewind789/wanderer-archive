@@ -118,8 +118,8 @@ html, body {
 
 
 body { 
-	font: 200%;
-	font-family:'Open Sans';
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
+  	font-size: 16px;
 	line-height: 1.88889;
 	color: #f0f9ff; 
 	background: #1b1d4a; 
@@ -135,10 +135,10 @@ p {
 
 h1 {
 	color: #FFFFFF;
-	font-family: 'Open Sans';
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 h2 {
-	font-family: 'Open Sans';
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	color: #FFFFFF;
@@ -147,7 +147,7 @@ h2 {
 }
 
 h3 { 
-	font-family: 'Open Sans';
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #FFFFFF;
@@ -157,7 +157,7 @@ h3 {
 
 
 h10 {
-	font-family: 'Open Sans';
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	color: #FFFFFF;
@@ -237,7 +237,7 @@ footer a:link, footer a:visited {
 
 
 h1 {
-	font-family: 'Open Sans';
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
 	text-align: center;
 }
 
