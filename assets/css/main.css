@@ -138,7 +138,7 @@ h1 {
 	font-family: 'Open Sans';
 }
 h2 {
-	font: bold normal 1.4m georgia, sans-serif;
+	font-family: 'Open Sans';
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	color: #FFFFFF;
@@ -147,7 +147,7 @@ h2 {
 }
 
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
+	font-family: 'Open Sans';
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #FFFFFF;
@@ -157,7 +157,7 @@ h3 {
 
 
 h10 {
-	font: italic normal 1.4em georgia, sans-serif;
+	font-family: 'Open Sans';
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	color: #FFFFFF;
