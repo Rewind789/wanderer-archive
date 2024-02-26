@@ -118,7 +118,7 @@ html, body {
 
 
 body { 
-	font: 75%;
+	font: 100%;
 	font-family:'Open Sans';
 	line-height: 1.88889;
 	color: #f0f9ff; 
@@ -237,7 +237,7 @@ footer a:link, footer a:visited {
 
 
 h1 {
-	font-family: 'Times';
+	font-family: 'Open Sans';
 	text-align: center;
 }
 
