@@ -17,11 +17,9 @@
   <h2 class="subtitles">Navigations</h2>
   <h3 class="intro"><b><a href="notes.md">Notes</a></b></h3>
   <h3 class="intro"><b><a href="ramblings.md">Articles/Rants</a></b></h3>
-  
   <br>
   <p>I only do this when I have time or more notes.... year 10 notes soon...(I just started >.<) <br>
   frequently check the website for more information. Have fun in the library, I'll make a map soon, so try not to get lost~</p>
-  
   <br>
   <p>Leaving so quickly? Well then, goodbye my visitors. Come back often, to refill your knowledge, to restock your energy, to rest your mind. Enjoy!</p>
   <p>Also remember to check out my <a href="https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f">inventory</a>, where my scrolls are carefully organised and written.</p>
