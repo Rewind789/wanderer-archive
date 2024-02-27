@@ -2,6 +2,8 @@
 title: "Chat Names"
 ---
 
+Me and my friends have a chat (wow)... and the name changes way too often...
+
 There are too many chat names...(I gave up)
 
 I don't have all of the stuff chat names, because unlike the [Merchant of Harzavad (Donal)](https://harzavad.github.io/the-merchant/), I'm not the "24/7 teams chat spammer" (he is), and they change it every few minutes anyway.... so here you are.
