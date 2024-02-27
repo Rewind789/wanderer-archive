@@ -116,6 +116,26 @@ html, body {
   font-size: 200%;
 }
 
+blockquote {
+  padding-right: 5px;
+  margin-left: 275;
+  border-left: 0.3rem solid #dce6f0;
+}
+
+pre {
+  font-size: 1rem;
+  line-height: normal;
+  color: #567482;
+  word-wrap: normal;
+  background-color: #f3f6fa;
+  border: solid 1px #dce6f0;
+  padding: 0.8rem;
+  overflow: auto;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  border-radius: 0.3rem;
+}
+
 
 body { 
 	font-family: Calibri, 'Trebuchet MS', sans-serif;
@@ -264,23 +284,4 @@ h1 {
 	font-size: 200%;
 }
 
-blockquote {
-  padding-right: 5px;
-  margin-left: 275;
-  border-left: 0.3rem solid #dce6f0;
-}
-
-pre {
-  font-size: 1rem;
-  line-height: normal;
-  color: #567482;
-  word-wrap: normal;
-  background-color: #f3f6fa;
-  border: solid 1px #dce6f0;
-  padding: 0.8rem;
-  overflow: auto;
-  font-size: 0.9rem;
-  line-height: 1.45;
-  border-radius: 0.3rem;
-}
 
