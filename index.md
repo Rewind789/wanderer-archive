@@ -22,7 +22,7 @@ My inventory and library are currently in an establishment within the [Town](/wa
 I only do this when I have time or more notes to do... doing year 9/10 right now (I just started >.<)
 Frequently check this website for more information, have fun in this library!
 
-Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [Town][/the-town.html] where other member's notes are stored...
+Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [town](/wanderer-archive/the-town.html) where other member's notes are stored...
 
 Also check out my [iventory](https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f) where my scrolls are carefully organised and written (down at the moment sry :/)
   
