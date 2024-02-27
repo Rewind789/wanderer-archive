@@ -265,7 +265,7 @@ h1 {
 }
 
 blockquote {
-  padding: 5px;
+  padding-right: 5px;
   margin-left: 275;
   border-left: 0.3rem solid #dce6f0;
 }
