@@ -33,6 +33,7 @@ And Japanese notes~
 ~~Don't ask me for english notes because I will ignore you~~ People take notes in English??
 I'll do _basic_ music notes...
 
+---
 Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [town](/wanderer-archive/the-town.md) where other member's notes are stored...
 
 Also check out my [iventory](https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f) where my scrolls are carefully organised and written (down at the moment sry :/)
