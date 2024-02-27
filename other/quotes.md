@@ -1,4 +1,6 @@
-#other
+---
+title: "Quotes Page"
+---
 
 > [!quote]- Quotes Page
 > 
