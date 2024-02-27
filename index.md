@@ -16,7 +16,7 @@ My inventory and library are currently in an establishment within the [Town](/wa
 
 ---
 ## Navigation
-[Notes](notes.md)
+[Notes Archive](notes.md)
 
 [Articles/Rants](/other/rants.md)
 
