@@ -1,4 +1,3 @@
-
 ---
   title:"Wanderer's Archive"
 ---
