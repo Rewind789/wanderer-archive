@@ -28,10 +28,15 @@ Frequently check this website for more information, have fun in this library!
 
 ## Updates
 I'm making progress?
+
 Doing science and math notes~
+
 And Japanese notes~
+
 ~~Don't ask me for english notes because I will ignore you~~ People take notes in English??
+
 I'll do _basic_ music notes...
+
 
 ---
 Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [town](/wanderer-archive/the-town.md) where other member's notes are stored...
