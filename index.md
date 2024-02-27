@@ -1,6 +1,6 @@
 
 ---
-title:"Wanderer's Archive"
+  title:"Wanderer's Archive"
 ---
 
 
