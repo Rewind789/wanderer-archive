@@ -1,9 +1,9 @@
 ---
-  title:"Wanderer's Archive"
+  title: "Wanderer's Archive"
 ---
 
 
-__[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, all written in pen and paper...]__
+_[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, all written in pen and paper...]_
 
 Hi! Welcome to my vast inventory, here in this labyrinth of scrolls and artifacts, each one organised neatly, may you find many different notes (if you look in the right place and don't get lost). Each and every one is different and exquisite in its own way...chemistry, physics, etc. Enjoy your stay in this library; don't get lost~
 
