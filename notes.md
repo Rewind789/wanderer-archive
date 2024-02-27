@@ -1,5 +1,5 @@
 ---
-  title: Year 9 Notes
+  title: School Notes Archive
 ---
 
 Welcome to my library, my archives, my inventory. Read to your heart's content.
