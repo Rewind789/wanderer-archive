@@ -2,9 +2,9 @@
 title: "Quotes Page"
 ---
 
-> [!quote]- Quotes Page
-> 
-> Where quotes rule our life 
+Quotes!
+Also, don't read this...you might die of old age before you get to the end...
+> I don't even think this is my full list??
 
 ## Highlight Quote
 These 2 quotes go together. Very suspicious
