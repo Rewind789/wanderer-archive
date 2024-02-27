@@ -9,6 +9,7 @@ Hi! Welcome to my vast inventory, here in this labyrinth of scrolls and artifact
 
 WHY IS THIS NOT SYNCING....I'm getting schizophrenia...
 > caused by music
+> also from randoms (my friends) asking if I am genshin related, I AM NOT TwT
 
 My inventory and library are currently in an establishment within the [Town](/wanderer-archive/the-town.md), an oasis where I rest and wander no further (even though I'm a wanderer....)
 
@@ -24,6 +25,13 @@ My inventory and library are currently in an establishment within the [Town](/wa
 
 I only do this when I have time or more notes to do... doing year 9/10 right now (I just started >.<)
 Frequently check this website for more information, have fun in this library!
+
+## Updates
+I'm making progress?
+Doing science and math notes~
+And Japanese notes~
+~~Don't ask me for english notes because I will ignore you~~ People take notes in English??
+I'll do _basic_ music notes...
 
 Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [town](/wanderer-archive/the-town.md) where other member's notes are stored...
 
