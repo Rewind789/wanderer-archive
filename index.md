@@ -8,7 +8,7 @@ _[A page of his diary, of his adventures to every place on Earth. With every exp
 Hi! Welcome to my vast inventory, here in this labyrinth of scrolls and artifacts, each one organised neatly, may you find many different notes (if you look in the right place and don't get lost). Each and every one is different and exquisite in its own way...chemistry, physics, etc. Enjoy your stay in this library; don't get lost~
 
 WHY IS THIS NOT SYNCING....I'm getting schizophrenia...
->caused by music
+> caused by music
 
 My inventory and library are currently in an establishment within the [Town](/wanderer-archive/the-town.html), an oasis where I rest and wander no further (even though I'm a wanderer....)
 
