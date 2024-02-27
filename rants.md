@@ -1,5 +1,5 @@
 ---
-Title: Rants/Articles
+Title: "Rants/Articles"
 ---
 
 Put information in your ramblings here
