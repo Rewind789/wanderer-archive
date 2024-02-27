@@ -14,7 +14,9 @@ My inventory and library are currently in an establishment within the [Town](/wa
 ---
 ## Navigation
 [Notes](notes.html)
+
 [Articles/Rants](rants.html)
+
 [Quotes Page](quote.html)
 
 I only do this when I have time or more notes to do... doing year 9/10 right now (I just started >.<)
