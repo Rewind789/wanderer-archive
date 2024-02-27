@@ -8,7 +8,7 @@
     <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 </head>
 
-
+<header><h1>Wanderer's Archive</h1></header>
   <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
   <br>
   <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~</p>
