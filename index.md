@@ -1,7 +1,8 @@
 
 ---
-title: "Wanderer's Archive"
+title:"Wanderer's Archive"
 ---
+
 
 __[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, all written in pen and paper...]__
 
