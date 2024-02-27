@@ -1,33 +1,28 @@
 
-<head>
-  <title>Wanderer's Archive</title>
-  <link href="assets/css/main.css" rel="stylesheet" type="text/css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
-  <script src="https://kit.fontawesome.com/a9576c305f.js" crossorigin="anonymous"></script>
-    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-</head>
+---
+title: "Wanderer's Archive"
+---
 
-<title>Wanderer's Archive</title>
-<h1>Wanderer's Archive</h1>
+__[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, all written in pen and paper...]__
 
-  <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
-  <br>
-  <p class="intro">Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~</p>
-  <br>
-  <p>WHY IS THIS NOT SYNCING TwT... im getting schizophrenia...</p>
+Hi! Welcome to my vast inventory, here in this labyrinth of scrolls and artifacts, each one organised neatly, may you find many different notes (if you look in the right place and don't get lost). Each and every one is different and exquisite in its own way...chemistry, physics, etc. Enjoy your stay in this library; don't get lost~
+
+WHY IS THIS NOT SYNCING....I'm getting schizophrenia... (this + music)
+
+My inventory and library are currently in an establishment within the [Town](/wanderer-archive/the-town.html), an oasis where I rest and wander no further (even though I'm a wanderer....)
+
+---
+## Navigation
+[Notes](notes.html)
+[Articles/Rants](rants.html)
+[Quotes Page](quote.html)
+
+I only do this when I have time or more notes to do... doing year 9/10 right now (I just started >.<)
+Frequently check this website for more information, have fun in this library!
+
+Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [Town][the-town.html] where other member's notes are stored...
+
+Also check out my [iventory](https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f) where my scrolls are carefully organised and written (down at the moment sry :/)
   
-  <p>My inventory and libraries are currently in an establisment within <a href="/wanderer-archive/the-town.html">The Town</a>, an oasis, where I let my mind rest, and wander no further anymore.</p>
-  <hr class="divider_one">
-  <h2 class="subtitles">Navigations</h2>
-  <h3 class="intro"><b><a href="notes.html">Notes</a></b></h3>
-  <h3 class="intro"><b><a href="rants.html">Articles/Rants</a></b></h3>
-  <br>
-  <p>I only do this when I have time or more notes.... year 10 notes soon...(I just started >.<) <br>
-  frequently check the website for more information. Have fun in the library, I'll make a map soon, so try not to get lost~</p>
-  <br>
-  <p>Leaving so quickly? Well then, goodbye my visitors. Come back often, to refill your knowledge, to restock your energy, to rest your mind. Enjoy!</p>
-  <p>Also remember to check out my <a href="https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f">inventory</a>, where my scrolls are carefully organised and written.</p>
-  
-  <p>Have fun in this library! <br> ~Kiefer Yuen</p>
+Have fun in this library! ~Kiefer Yuen
 
