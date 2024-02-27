@@ -13,6 +13,6 @@ I was introduced through [Shan-mei](https://shan-mei.github.io/shanmeis-notes/),
 - [Shan-mei](https://shan-mei.github.io/shanmeis-notes/)
 - [Pi-Thagoras](https://pi-thagoras.github.io/the-chicken-pen) and his chicken pen (quack?)
 - [Donal](https://dvaraka.github.io/nalanda_university/) (who was previously the Merchant of Harzavad and then changed to Har**j**avad?)
-- [Littleroot](https://littleroot.toomwn.xyz/) (plays pokemon :D)
+- [Littleroot](https://nottaro.github.io/littleroot/) (plays pokemon :D // don't worry I hate CSS as well)
 - [Spiccata](https://spicata.99000000.xyz/)
 - [Edward](https://ed.toomwn.xyz/)
