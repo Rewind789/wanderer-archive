@@ -29,9 +29,9 @@ html {
 .nav {
   background-color: #171D3A;
   position: fixed;
-  width: 22%;
+  width: 20%;
   margin-top: 0px;
-  margin-left: -325px;
+  margin-left: -310px;
   height: 110%;
   transform: 0.5s;
   overflow: auto;
