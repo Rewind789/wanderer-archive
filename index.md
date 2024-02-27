@@ -10,20 +10,20 @@ Hi! Welcome to my vast inventory, here in this labyrinth of scrolls and artifact
 WHY IS THIS NOT SYNCING....I'm getting schizophrenia...
 > caused by music
 
-My inventory and library are currently in an establishment within the [Town](/wanderer-archive/the-town.html), an oasis where I rest and wander no further (even though I'm a wanderer....)
+My inventory and library are currently in an establishment within the [Town](/wanderer-archive/the-town.md), an oasis where I rest and wander no further (even though I'm a wanderer....)
 
 ---
 ## Navigation
 [Notes](notes.md)
 
-[Articles/Rants](/wanderer-archive/other/rants.html)
+[Articles/Rants](/wanderer-archive/other/rants.md)
 
-[Quotes Page](/wanderer-archive/other/quotes.html)
+[Quotes Page](/wanderer-archive/other/quotes.md)
 
 I only do this when I have time or more notes to do... doing year 9/10 right now (I just started >.<)
 Frequently check this website for more information, have fun in this library!
 
-Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [town](/wanderer-archive/the-town.html) where other member's notes are stored...
+Leaving so quickly? Bored to death? Good-bye my visitors... if you don't want to get lost you can visit the [town](/wanderer-archive/the-town.md) where other member's notes are stored...
 
 Also check out my [iventory](https://wanderer-inventory.notion.site/Wanderer-s-Archive-551bf6d3382148678191175b1123296f) where my scrolls are carefully organised and written (down at the moment sry :/)
   
