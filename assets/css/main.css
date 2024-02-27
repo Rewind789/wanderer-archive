@@ -5,7 +5,7 @@
 }
 
 html {
-	margin-right: 75px;
+	margin-right: 55px;
 	margin-left: 275px;
 	padding: 0;
 	text-align: justify;
@@ -31,7 +31,7 @@ html {
   position: fixed;
   width: 22%;
   margin-top: 0px;
-  margin-left: -310px;
+  margin-left: -325px;
   height: 110%;
   transform: 0.5s;
   overflow: auto;
