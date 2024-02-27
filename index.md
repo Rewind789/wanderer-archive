@@ -7,7 +7,9 @@
   <script src="https://kit.fontawesome.com/a9576c305f.js" crossorigin="anonymous"></script>
     <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 </head>
+
 <title>Wanderer's Archive</title>
+<h1>Wanderer's Archive</h1>
 
   <p><i>[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]</i></p>
   <br>
