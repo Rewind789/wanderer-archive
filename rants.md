@@ -2,6 +2,6 @@
 Title: "Rants/Articles"
 ---
 
-Put information in your ramblings here
+not started...(this thing is under "construction")
 
 ~~im going insane~~
