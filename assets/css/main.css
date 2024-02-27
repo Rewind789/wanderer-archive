@@ -226,7 +226,7 @@ a:hover, a:focus, a:active {
 }
 
 a:hover {
-	box-shadow: inset 100px 0 0 0 #ffffff;
+	box-shadow: inset 95px 0 0 0 #ffffff;
 	color: #1b1d4a;
 }
 
