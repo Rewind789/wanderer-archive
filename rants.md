@@ -1,5 +1,5 @@
 ---
-Title: "Rants/Articles"
+title: "Rants/Articles"
 ---
 
 not started...(this thing is under "construction")
