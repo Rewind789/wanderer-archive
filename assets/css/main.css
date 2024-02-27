@@ -284,4 +284,10 @@ h1 {
 	font-size: 200%;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
 
