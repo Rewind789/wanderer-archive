@@ -10,7 +10,7 @@ Hi! Welcome to my vast inventory, here in this labyrinth of scrolls and artifact
 WHY IS THIS NOT SYNCING....I'm getting schizophrenia...
 > caused by music
 >
-> also from randoms (my friends) asking if I am genshin related, I AM NOT TwT
+> also from randoms (my friends) asking if I am genshin related, I AM NOT TwT   ~~i do play genshin and star rail tho~~
 
 My inventory and library are currently in an establishment within the [Town](/wanderer-archive/the-town.md), an oasis where I rest and wander no further (even though I'm a wanderer....)
 
