@@ -26,7 +26,7 @@ These 2 quotes go together. Very suspicious
 
 6. "so.... $3.50 + $12.10... wait how'd I get 10??" - Donal T
 
-7. "I will throw you out the window" *points to wall*. *The proceeds to trip over a SANDWHICH* - Ethan T
+7. "I will throw you out the window" *points to wall*. - Ethan T
 8. "Why am I holding my IITomo book?" - Ethan T
 	1. "Because you're stupid. Why are you stupid? Because you can't make tea. Why can't you make tea? Because you don't have a microwave. Why don't you have a microwave? Because you don't have brain cells. Why don't you have brain cells? Because you have no friends. Why do you have no friends? Because you're holding your IITomo book." - Kiefer Y
 9. "You need class to eat chopsticks" - Victoria C
@@ -35,7 +35,7 @@ These 2 quotes go together. Very suspicious
 12. "we use 2 1/3 cups because A, we get 2/3 of a cup, and B, the company is stingy and they don't make 2/3 cups" - Ms. Soraru
 13. "Ethan and Donal snuggle up for the night" - Hunger Games Simulator (sigh)
 
-> [!notes] The Great Avocado Analogy
+> The Great Avocado Analogy
 > 
 > the ~~great~~ avocado analogy “It’s like putting bread with an avocado and saying you’re allergic to the bread when you’re allergic to the avocado” - Ethan T
 
@@ -202,10 +202,7 @@ These 2 quotes go together. Very suspicious
 141. _talking to Dodo_ “OIAHGOIAIS to you too?” - Rutvi K
 142. “Kiefer, being the amazing person he is…” _he was begging me to send him my code_ (-From Kiefer) - Donal T (i was not i was being completely serious mhm definitely - Donal T)
 143. “What brain” - Donal T
-
-[Look, I know I missed 144, but there was a ~~inappropriate~~ suspicious quote here]
-
-
+144. "........."
 145. “Not because they’re communist” - Ms James
 146. “The kid has cancer” - Kevin Y
 147. “Why is it important to manipulate people? There you have it that’s how capitalism works” - Ms James
