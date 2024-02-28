@@ -17,4 +17,7 @@ If you're last minute panicking-
 [Protein Synthesis CAT](cat.md)
 
 ### Mitosis and Meiosis
+mitosis (in progress)
 
+## Biology Other
+[Extended Response Guide](extended-response.md)
