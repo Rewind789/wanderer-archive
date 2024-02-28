@@ -12,4 +12,7 @@ Welcome to my library, my archives, my inventory. Read to your heart's content.
 
 Japanese notes are weird[^1]
 
+
+
+
 [^1]:Japanese is one year ahead (I'm accelerated) TwT...
