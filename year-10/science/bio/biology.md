@@ -5,7 +5,7 @@ title: "Biology Archive"
 Biology Archive Stuff!
 
 ### DNA
-
+[DNA](dna.md)
 
 ### Protein Synthesis
 [Protein Synthesis](protein-synthesis.md)
