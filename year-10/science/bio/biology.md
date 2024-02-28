@@ -7,6 +7,8 @@ Biology Archive Stuff!
 ### DNA
 [DNA](dna.md)
 
+[DNA replication](dna-replication.md)
+
 ### Protein Synthesis
 [Protein Synthesis](protein-synthesis.md)
 
