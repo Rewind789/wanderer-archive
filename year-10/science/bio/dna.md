@@ -37,6 +37,8 @@ One strand goes from 5' to 3', and the other goes from 3' to 5' [^2]
 Chromosomes are thread like structures that occur in the nuclei of all body cells except red blood cells
 They are made from chromatin -> made of 2 chromatids held by a centromere
 
+<image src="/wanderer-archive/assets/images/chromosomes diagram.png" alt="Chromosomes" width=300px />
+
 ## DNA Packaging
 In eukaryotic cells, DNA is packaged as chromosomes in the nucleus
 Associated with proteins called histones; they form chromatin
