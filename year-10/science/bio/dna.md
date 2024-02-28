@@ -74,5 +74,7 @@ A complete set of genes is called a genome and contains the information needed t
 One gene can code for one or more traits, somtimes, usually more than one gene code for one trait
 
 
+
+
 [^1]: There is no dash between deoxy and ribonucleic in DNA!
 [^2]: Depends on which way the 5th point of the sugar (it's a pentagon shape) is pointing
