@@ -41,7 +41,8 @@ They are made from chromatin -> made of 2 chromatids held by a centromere
 In eukaryotic cells, DNA is packaged as chromosomes in the nucleus
 Associated with proteins called histones; they form chromatin
 >DNA strands are long uncoiled string-like substances; they wrap around histones (a type of protein) to form chromatin (?? too much new terminology that I didn't write notes on sorry TwT)
-In prokaryotic cells (the simple cells; usually unicellular), DNA is loose in cytoplasm; there is no histones or chromosomes
+>
+>In prokaryotic cells (the simple cells; usually unicellular), DNA is loose in cytoplasm; there is no histones or chromosomes
 
 ## Chromatin
 Chromatin is a double stranded helical structure of DNA
