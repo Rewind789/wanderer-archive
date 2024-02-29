@@ -50,6 +50,9 @@ Protein Structure
 1. A polypeptide chain either joins with another polypeptide chain or folds on itself, or does both; this shape the chain makes is dictated by the protein(and sequence of amino acids) it is trying to create. Hydrogen bonds form to help create the shape needed.
 2. The Golgi apparatus modifies and packages the proteins (if needed)
 
+#### Diagram
+![science cat diagram](/wanderer-archive/assets/images/science-cat-diagram.jpg)
+
 #### Resources
 
 [Cell Transcription and Translation | PBS LearningMedia](https://www.pbslearningmedia.org/resource/lsps07.sci.life.stru.celltrans/cell-transcription-and-translation/)
