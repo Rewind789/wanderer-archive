@@ -57,9 +57,11 @@ Protein Structure
 
 [Cell Transcription and Translation | PBS LearningMedia](https://www.pbslearningmedia.org/resource/lsps07.sci.life.stru.celltrans/cell-transcription-and-translation/)
 
+
 [Gene structure - Gene expression - Higher Biology Revision - BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zgrccdm/revision/3)
 
-[](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription/v/rna-transcription-and-translation)
+
+[Khan Academy](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription/v/rna-transcription-and-translation)
 
 [Eukaryotic pre-mRNA processing | RNA splicing (article) | Khan Academy](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna/a/eukaryotic-pre-mrna-processing)
 
