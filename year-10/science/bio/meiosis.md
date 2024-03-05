@@ -21,7 +21,7 @@ Gametes are from cell division called **meiosis**
 - Crossing over: when the chromosomes line up in the middle, they swap over a bit of genetic information, which cause variation
 - Independent Assortment: In meiosis I, one chromosome from each pair goes to one of the cells while the other goes to another; this is completely random
 
-![Crossing Over](/assets/images/crossing-over.webp)
+![Crossing Over](/wanderer-archive/assets/images/crossing-over.webp)
 
 Meiosis I
 - Homologous pairs of chromosomes align in the middle of the parent cell and are separated
