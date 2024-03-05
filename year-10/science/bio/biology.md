@@ -13,7 +13,7 @@ Biology Archive Stuff!
 [Protein Synthesis](protein-synthesis.md)
 
 ## Mitosis and Meiosis
-mitosis (in progress)
+[Mitosis](mitosis.md)
 
 ## Biology Other
 [Extended Response Guide](extended-response.md)
