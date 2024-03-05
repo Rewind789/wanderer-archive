@@ -15,5 +15,7 @@ Biology Archive Stuff!
 ## Mitosis and Meiosis
 [Mitosis](mitosis.md)
 
+[Meiosis](meiosis.md)
+
 ## Biology Other
 [Extended Response Guide](extended-response.md)
