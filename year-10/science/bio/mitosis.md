@@ -71,6 +71,8 @@ Telophase (includes Cytokinesis)
 - Nucleolus reforms along with nuclear membrane
 - Cytokineses: Furrows develop and deepens until cytoplasm splits into 2 separate daughter cells (basically the cell splits into 2 new cells)
 
+and thats the end! (for now unless you do meiosis)
+
 
 [^1]: Made of 1 cell only
 [^2]: Only 2 cells remain! The mother cell is divided and ceases to exist; there ARE NOT 3 cells (sounds dumb, but someone told me that it was a common mistake)
