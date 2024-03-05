@@ -41,5 +41,8 @@ Normally, a cell only contains one copy of each chromosomes - before dividing ch
 ## Duplication
 Cell chromosomes are usually a long thin strand; but for a part of interphase, they condense and each chromosome duplicates (via DNA replication!) and become 2 strands, each one called a chromatid; the two are joined at the centromere.
 
+[in progress]
+
+
 [^1]: Made of 1 cell only
 [^2]: Only 2 cells remain! The mother cell is divided and ceases to exist; there ARE NOT 3 cells (sounds dumb, but someone told me that it was a common mistake)
