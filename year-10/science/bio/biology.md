@@ -12,9 +12,6 @@ Biology Archive Stuff!
 ## Protein Synthesis
 [Protein Synthesis](protein-synthesis.md)
 
-If you're last minute panicking-
-
-[Protein Synthesis CAT](cat.md)
 ## Mitosis and Meiosis
 mitosis (in progress)
 
