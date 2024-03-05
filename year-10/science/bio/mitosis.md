@@ -1,6 +1,9 @@
 ---
 title: "Mitosis"
 ---
+The world of mitosis! Where one cell splits into 2...
+
+sounds like an efficient way to do things but sure...¯\\\_(ツ)\_/¯ it works i guess
 
 ## Cell Division
 Why do cells reproduce? What is the point?
