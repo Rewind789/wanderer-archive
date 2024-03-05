@@ -40,7 +40,15 @@ Poly-A tail
 - Adenine is better to use as a tail because the mRNA strand will have to degrade eventually, and Adenine is easily degradable; another cap would take longer to get rid of
 
 ## Translation
-(progress)
+Once the mRNA is transcribed, it moves out of the nucleus via the nuclear pores
+
+In the cytoplasm, mRNA combines with a ribosome {this is where mRNA codes for a polypeptide chain}
+
+Transfer RNA looks like T's that carry an amino acid
+
+Each tRNA has a complememtary codon to the codon on the RNA, the ribosome finds the tRNA with the matching anti-codon and brings it; the amino acid the tRNA is carrying will be dropped off (E.g. AUG codes for methionine)
+
+
 
 
 [^1]: Uracil is more degradeable (the mRNA strand will have to degrade after done its job), because Guanine is protected by an oxygen molecule
