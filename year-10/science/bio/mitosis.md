@@ -12,7 +12,7 @@ Cell division is also needed for sexual reproduction and growth.
 ## Cell Cycle
 Eukaryotic cells divide in 2 ways
 - Mitosis: divides into 2 daughter cells that are genetically identical to each other and parent cells
-- Meiosis: [Click here](/wanderer-archive/year-10/science/bio/meiosis.md)
+- Meiosis: [Click here](/year-10/science/bio/meiosis.md)
 
 There is a cell cycle that cells follow, which is known as IPMAT
 
