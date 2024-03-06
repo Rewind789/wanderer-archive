@@ -17,5 +17,8 @@ Biology Archive Stuff!
 
 [Meiosis](meiosis.md)
 
+## Genetics
+[Genetics Overview](genetics.md)
+
 ## Biology Other
 [Extended Response Guide](extended-response.md)
