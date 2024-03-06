@@ -45,4 +45,23 @@ Dominant and Recessive traits
 - Recessive traits are lower case (e.g. a)
 - Dominant will always be expressed over recessive traits (so if brown eyes were dominant, then if there was a brown eye allele then the child would have brown eyes. The blue eyes can only be expressed if there are 2 blue eyes and no brown eyes alleles. The blue eyes would be recessive in this case)
 
+## Co-dominance and Incomplete
+Co-dominance
+- Make extra phenotype; 3 phenotypes
+- For example, there are 3 types of blood cells, A, B and O
+- A and B are dominant while O is recessive
+- AB is co-dominant; it is when both A and B are expressed (because they are both dominant and are expressed)
+
+Incomplete
+- Neither are fully dominant over the other
+- A and B are neither dominant nor recessive
+- Blend together into a mix; combine for a new outcome
+
+Comparing the two:
+
+Here is an example... with my favourite animal, a kitten!
+
+Co-dominant: White cat and black cat produce a cat with black and white patches
+
+Incomplete: white cat and black cat blend together and form a gray cat
 
