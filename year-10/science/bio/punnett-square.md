@@ -25,7 +25,7 @@ Then we have to list the parent's genotypes and phenotypes (if they are given)
 
 Then we simply draw a 3x3 square with the parents genotypes on each side, and add the two genotypes into the box they correspond to. Then you look at the 4 inside genotypes to determine the probability that the child has the trait, and the genotype of the offspring.
 
-![Punnett Square]
+![Punnett Square](/wanderer-archive/assets/images/punnett-square.png)
 
 When you have figured out the answer, you have to list the % of offspring, the genotype and phenotype
 - E.g. 100% of children are heterozygous (Aa) and will have brown eyes
