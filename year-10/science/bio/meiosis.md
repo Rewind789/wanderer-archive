@@ -33,4 +33,32 @@ Meiosis II
 - Splits each chromosome into 2 chromatids and places 1 in each cell
 - Results in 4 unique haploid genes
 
-[unfinished]
+## IPMAT for Mieiosis (there are 2 phases of this)
+Prophase I
+- DNA turns to chromosomes after each one duplicates (the two separate parts of the chromosome are called sister chromatids)
+
+Metaphase I
+- Chromosomes align at centre
+- Crossing over and independent assortment here
+
+Anaphase I
+- Separate with sister chromatids remain together (the chromosome pair splits up; with one chromosome going one way and the other (they don't break/actually split this time))
+
+Telophase I
+- Two daughter cells formed with each only containing one chromosome from the pair
+
+Prophase II
+- DNA condenses into chromosomes
+
+Metaphase II
+- Chromosomes line up (again)
+
+Anaphase II
+- Divide and sister chromatids move to each pole; this time the chromosomes actually break and divide into 2
+- Like in mitosis
+
+Telophae II
+- Cell splits into 2 daughter cells (this happens to both of the cells) so 4 haploid cells in total are produced
+
+BASICALLY THE SAME AS IPMAT BUT WITH CROSSING OVER AND INDEPENDENT ASSORTMENT
+
