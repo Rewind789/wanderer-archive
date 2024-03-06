@@ -41,7 +41,7 @@ Incomplete
 - A and B are neither dominant nor recessive
 - Blend together into a mix; combine for a new outcome
 
-Comparing the two:
+**Comparing the two:**
 
 Here is an example... with my favourite animal, a kitten!
 
