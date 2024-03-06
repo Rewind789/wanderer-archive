@@ -22,5 +22,7 @@ Biology Archive Stuff!
 
 [Punnett Squares](punnett-square.md)
 
+[Types of Inheritence](allele-inheritance.md)
+
 ## Biology Other
 [Extended Response Guide](extended-response.md)
