@@ -63,7 +63,7 @@ Metaphase (**m**iddle)
 Anaphase
 - Spindle fibres pull chromosomes aprt
 - One chromatid (half a chromosome) moves to each pole
-- Chromatids are now called chromosomes again after they are separated 🙄🙄[^3]
+- Chromatids are now called chromosomes again after they are separated 🙄🙄
 
 Telophase (includes Cytokinesis)
 - Two sets of chromosomes form groups at each pole
@@ -76,4 +76,3 @@ and thats the end! (for now unless you do meiosis)
 
 [^1]: Made of 1 cell only
 [^2]: Only 2 cells remain! The mother cell is divided and ceases to exist; there ARE NOT 3 cells (sounds dumb, but someone told me that it was a common mistake)
-[^3]: ~~dumb~~ i mean scientific...cough...terminology
