@@ -13,6 +13,7 @@ They can be acquired through environmental factors (e.g. hair length, scars) or 
 
 These observable characteristics are called **phenotypes**
 > A full set of genes is called a genotype (a combination of alleles that you have)
+> 
 > These are represented through capital and lower case letters. So the possibilities are AA (inherited an A from both parents), aa (inherited an a from both parents), and Aa (inherited A from one parent and an a from the other)
 
 AA - homozygous dominant, aa - recessive dominant, Aa - heterozygous
