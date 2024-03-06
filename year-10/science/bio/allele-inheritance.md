@@ -1,6 +1,7 @@
 ---
-title: "Allele Inheritence"
+title: "Allele Inheritance"
 ---
+i spelt this page 'inherit**e**nce' too many times to even say it
 
 ## Gregor Mendel (1830s - 1860s)
 - Experimented with pea plants; he used them to study genetics
