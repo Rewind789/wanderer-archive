@@ -20,5 +20,7 @@ Everything in Year 10 (2024)
 ## [Japanese Archive](/year-10/japanese/japanese.md)
 
 [Grammar]
-[Kanji]
+
+[Kanji
+
 [Vocabulary]
