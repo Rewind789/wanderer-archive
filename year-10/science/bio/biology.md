@@ -20,7 +20,7 @@ Biology Archive Stuff!
 ## Genetics
 [Genetics Overview](genetics.md)
 
-[Punnett Squares](punnettsquare.md)
+[Punnett Squares](punnett-square.md)
 
 ## Biology Other
 [Extended Response Guide](extended-response.md)
