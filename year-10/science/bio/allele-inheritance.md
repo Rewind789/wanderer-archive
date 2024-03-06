@@ -25,10 +25,25 @@ Laws of Dominance and Recessiveness
 - Dominant > recessive basically
 
 ## Pedigrees
-Pedigrees are a sort of diagram used to show a family history of a trait
+Pedigrees are a sort of diagram used to show a family history of a trait.
 
-[DIAGRAM]
+Squares represent males; circles represent females
 
+Shaded means affected by condition; unshaded means unaffected by condition
+>If half shaded, it means it could be a carrier (has the allele but doesn't express it: for recessive traits)
+
+![Pedigree](/wanderer-archive/assets/images/pedigree.png)
+
+## Ways of Inheritence
+Autosomal
+- Dominant: expressed over recessive (only 1 dominant needed)
+- Recessive: only expressed if 2 recessive traits
+
+Sex Linked
+- Means that it is carried along the X chromosome
+- Girl sex chromosome is XX and boy chromosomes are XY
+- Boys will show traits if their X chromosome is affected, so X(c) Y  - c means affected - this is because they inherit a Y from the father which means if the X is bad, they instantly show it
+- Girls will show traits if both X chromosomes are affected, X(c)X(c)
 
 ## Co-dominance and Incomplete
 Co-dominance
