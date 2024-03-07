@@ -24,5 +24,10 @@ Biology Archive Stuff!
 
 [Types of Inheritence](allele-inheritance.md)
 
+[Determining Inheritances](tricks.md)
+
+[Example Diseases](diseases.md)
+
+
 ## Biology Other
 [Extended Response Guide](extended-response.md)
