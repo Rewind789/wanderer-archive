@@ -44,6 +44,18 @@ Sex Linked
 - Girl sex chromosome is XX and boy chromosomes are XY
 - Boys will show traits if their X chromosome is affected, so X(c) Y  - c means affected - this is because they inherit a Y from the father which means if the X is bad, they instantly show it
 - Girls will show traits if both X chromosomes are affected, X(c)X(c)
+- Sex linked conditions are passed on the 23rd chromosome (the sex chromosome)
+>Examples: Haemophilia (excessive bleeding), Red-green colourblindness
+
+
+Notations
+
+X - dominant normal, X(c) - recessive affected
+
+so Boys would be either XY or X(c)Y
+
+Girls can be XX, X(c)X, X(c)X(c); note you need to be X(c)X(c) to be affected by X linked, if it is sex linked recessive
+
 
 ## Co-dominance and Incomplete
 Co-dominance
