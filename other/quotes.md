@@ -19,23 +19,24 @@ These 2 quotes go together. Very suspicious
 
 2. _school trip to parliament, many politicians talking over each other_ “Everyone calm down. I want to remind you that you are meant to set an example for Perth Modern School” - **Speaker in the legislative council**
 
-3. "I got hit by a car and I'm *slightly* annoyed" - Antonina L 
+3. *pointing to food* "Did you make that in Cooking?" - Harry H, "nah he made that in English" - Raffif K, "Shut the fuck up" - Harry H
 
-4. *walking to Mills (cooking building)* "It smells like sugar biscuits" - Arielle A, "It smells like petrol" - Ellie M
+4. "I got hit by a car and I'm *slightly* annoyed" - Antonina L 
 
-5. *talking to Harry* "why are you infused with bracketerisation" - Kiefer Y
+5. *walking to Mills (cooking building)* "It smells like sugar biscuits" - Arielle A, "It smells like petrol" - Ellie M
 
-6. "so.... $3.50 + $12.10... wait how'd I get 10??" - Donal T
+6. *talking to Harry* "why are you infused with bracketerisation" - Kiefer Y
 
-7. "I will throw you out the window" *points to wall*. - Ethan T
-8. "Why am I holding my IITomo book?" - Ethan T
+7. "so.... $3.50 + $12.10... wait how'd I get 10??" - Donal T
+
+8. "I will throw you out the window" *points to wall*. - Ethan T
+9. "Why am I holding my IITomo book?" - Ethan T
 	1. "Because you're stupid. Why are you stupid? Because you can't make tea. Why can't you make tea? Because you don't have a microwave. Why don't you have a microwave? Because you don't have brain cells. Why don't you have brain cells? Because you have no friends. Why do you have no friends? Because you're holding your IITomo book." - Kiefer Y
-9. "You need class to eat chopsticks" - Victoria C
-10. "Why do people wear such short dresses? You bend over and your ass if falling out" - Crystal L
-11. "Read Riding Hood. If you read it as 'red' then you get that its a pun... if you read it as 'reed' then you just think I'm an idiot" - Mr. Barton
-12. "we use 2 1/3 cups because A, we get 2/3 of a cup, and B, the company is stingy and they don't make 2/3 cups" - Ms. Soraru
-13. "Ethan and Donal snuggle up for the night" - Hunger Games Simulator (sigh)
-14. *pointing to food* "Did you make that in Cooking?" - Harry H, "nah he made that in English" - Raffif K, "Shut the fuck up" - Harry H
+10. "You need class to eat chopsticks" - Victoria C
+11. "Why do people wear such short dresses? You bend over and your ass if falling out" - Crystal L
+12. "Read Riding Hood. If you read it as 'red' then you get that its a pun... if you read it as 'reed' then you just think I'm an idiot" - Mr. Barton
+13. "we use 2 1/3 cups because A, we get 2/3 of a cup, and B, the company is stingy and they don't make 2/3 cups" - Ms. Soraru
+14. "Ethan and Donal snuggle up for the night" - Hunger Games Simulator (sigh)
 
 
 > The Great Avocado Analogy
