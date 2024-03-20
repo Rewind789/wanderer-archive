@@ -11,7 +11,8 @@ These 2 quotes go together. Very suspicious
 
 132. “Two men stripped and started kissing” - Daniel T (talking about a play)
 
-133. “At this point, I’m literally bathing in glue” (a mysterious white substance) - Ethan T
+133. “At this point, I’m literally bathing in glue” (a mysterious white substance) - Ethan T (nothing dirty here....)
+
 
 ### Other Highlight Quotes
 1. "I can't make tea because my parents don't let me and I don't have a microwave" - Ethan T
@@ -34,6 +35,7 @@ These 2 quotes go together. Very suspicious
 11. "Read Riding Hood. If you read it as 'red' then you get that its a pun... if you read it as 'reed' then you just think I'm an idiot" - Mr. Barton
 12. "we use 2 1/3 cups because A, we get 2/3 of a cup, and B, the company is stingy and they don't make 2/3 cups" - Ms. Soraru
 13. "Ethan and Donal snuggle up for the night" - Hunger Games Simulator (sigh)
+14. *pointing to food* "Did you make that in Cooking?" - Harry H, "nah he made that in English" - Raffif K, "Shut the fuck up" - Harry H
 
 > The Great Avocado Analogy
 > 
