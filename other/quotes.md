@@ -37,6 +37,7 @@ These 2 quotes go together. Very suspicious
 13. "Ethan and Donal snuggle up for the night" - Hunger Games Simulator (sigh)
 14. *pointing to food* "Did you make that in Cooking?" - Harry H, "nah he made that in English" - Raffif K, "Shut the fuck up" - Harry H
 
+
 > The Great Avocado Analogy
 > 
 > the ~~great~~ avocado analogy “It’s like putting bread with an avocado and saying you’re allergic to the bread when you’re allergic to the avocado” - Ethan T
