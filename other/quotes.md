@@ -460,4 +460,11 @@ These 2 quotes go together. Very suspicious
 49. "My primary school teacher used to put tissues in her bras" - Luvenia Y
 50. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
 > [^1]: ASS + U + ME = ASSUME ._>
+
 51. "Yuck" - everyone at the same time
+52. "What happens when you get bitten by the radioactive slave" - Mr. Ron Barton
+53. "Arielles cringe...she never gives me anything... except misery" - Estelle C
+54. "Arielle bit me in year 7" - Estelle C
+55. "Mrs. Roy just bangs Shan-mei against the music stand" - Parmis D
+56. "I want him because he has broad shoulders and he's tall" - Kiefer Y
+
