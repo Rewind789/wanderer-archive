@@ -452,3 +452,9 @@ These 2 quotes go together. Very suspicious
 44. “Is there any lore behind the ears” - Antonina L
 45. “ITS SIMPLE ****ING QUALIFICATION” - Some random kid
 46. "You need class to eat chopsticks " - Victoria C
+47. "I saw numbers and got scared" - Luvenia Y
+48. "I JUST WANT QUOTES KSLDJFHKSDFHJKSDJFHSKDF" - Luvenia Y
+49. "My primary school teacher used to put tissues in her bras" - Luvenia Y
+50. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
+> ASS + U + ME = ASSUME ._>
+51. "Yuck" - everyone at the same time
