@@ -41,6 +41,7 @@ These 2 quotes go together. Very suspicious
 16. "My primary school teacher used to put tissues down her bras" - Luvenia Y
 
 
+
 > The Great Avocado Analogy
 > 
 > the ~~great~~ avocado analogy “It’s like putting bread with an avocado and saying you’re allergic to the bread when you’re allergic to the avocado” - Ethan T
