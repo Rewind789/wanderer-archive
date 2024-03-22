@@ -37,6 +37,8 @@ These 2 quotes go together. Very suspicious
 12. "Read Riding Hood. If you read it as 'red' then you get that its a pun... if you read it as 'reed' then you just think I'm an idiot" - Mr. Barton
 13. "we use 2 1/3 cups because A, we get 2/3 of a cup, and B, the company is stingy and they don't make 2/3 cups" - Ms. Soraru
 14. "Ethan and Donal snuggle up for the night" - Hunger Games Simulator (sigh)
+15. "When you assume, you make asses of u and me" - Dr Bouwer [^1]
+16. "My primary school teacher used to put tissues down her bras" - Luvenia Y
 
 
 > The Great Avocado Analogy
@@ -456,5 +458,5 @@ These 2 quotes go together. Very suspicious
 48. "I JUST WANT QUOTES KSLDJFHKSDFHJKSDJFHSKDF" - Luvenia Y
 49. "My primary school teacher used to put tissues in her bras" - Luvenia Y
 50. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
-> ASS + U + ME = ASSUME ._>
+> [^1]: ASS + U + ME = ASSUME ._>
 51. "Yuck" - everyone at the same time
