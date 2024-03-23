@@ -408,9 +408,12 @@ These 2 quotes go together. Very suspicious
 340. "Crystal and Mr Young hold hands" - hunger games simulator
 341. "Arielle and Crystal work together to drown Mr. Young" - hunger games simulator
 342. "White rice > brown rice. We're racist over here" - anonymous
+343. "I suggested a torture chamber, but for some reason everyone was against it" - Lulu Y
+344.  “I don’t know the daily soap intake” - Rutvi K
 
-1. "I suggested a torture chamber, but for some reason everyone was against it" - Lulu Y
-2. “I don’t know the daily soap intake” - Rutvi K
+i dont know why it starts from 3 here but icbb fixing it
+
+
 3. “Thunk” _(past tense of think)_ - Cat Y
 4. “I have never seen such noise” - Cat Y
 5. “If you wanna stop using so much water, stop growing lettuce” - Rutvi K
@@ -467,4 +470,5 @@ These 2 quotes go together. Very suspicious
 54. "Arielle bit me in year 7" - Estelle C
 55. "Mrs. Roy just bangs Shan-mei against the music stand" - Parmis D
 56. "I want him because he has broad shoulders and he's tall" - Kiefer Y
+57. "Yap yap yap yap yap" - Donal T
 
