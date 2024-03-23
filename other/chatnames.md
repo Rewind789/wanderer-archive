@@ -144,3 +144,12 @@ BANK RAGE - DONT ASK ME
 130. FrogYoda - ethan
 131. Loss of voiceboxes - rutvi
 132. libreri - donal i think
+133. autism - Kiefer Y
+
+.... smthng i gave up for a while smh
+
+134. Donal should stop changing the name - Kiefer Y
+135. Then give it a good name then - Donal T
+136. A good name then - Kiefer Y
+
+
