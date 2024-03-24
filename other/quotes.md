@@ -39,6 +39,10 @@ These 2 quotes go together. Very suspicious
 14. "Ethan and Donal snuggle up for the night" - Hunger Games Simulator (sigh)
 15. "When you assume, you make asses of u and me" - Dr Bouwer [^1]
 16. "My primary school teacher used to put tissues down her bras" - Luvenia Y
+17. “Once in year 4, I randomly broke out in hives on my ass” - Luvenia Y
+18. “I had to poop in front of 5 doctors if that makes you feel better” - Luvenia Y
+19. “They all got to see my hairy ass 😭” - Luvenia Y
+
 
 
 
@@ -462,6 +466,7 @@ i dont know why it starts from 3 here but icbb fixing it
 48. "I JUST WANT QUOTES KSLDJFHKSDFHJKSDJFHSKDF" - Luvenia Y
 49. "My primary school teacher used to put tissues in her bras" - Luvenia Y
 50. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
+
 > [^1]: ASS + U + ME = ASSUME ._>
 
 51. "Yuck" - everyone at the same time
@@ -472,4 +477,15 @@ i dont know why it starts from 3 here but icbb fixing it
 56. "I want him because he has broad shoulders and he's tall" - Kiefer Y
 57. "Yap yap yap yap yap" - Donal T
 58. "sniff...ethan learnt how to use smh...im so proud...sniff" - Ari A
+59. “Once in year 4, I randomly broke out in hives on my ass” - Luvenia Y
+60. “I had to poop in front of 5 doctors if that makes you feel better” - Luvenia Y
+61. “They all got to see my hairy ass 😭” - Luvenia Y
+62. “Everybody FREEZE” - Ms. Vivian, every 5 seconds
+63. “Ms Vivian has a big bottom so she needs a big chair…(slaps her butt)...this pot has a big butt so it needs a big stove…” - Ms. Vivian
+64. “Why did greg look so happy when he was about to be whipped” - Donal T
+65. “When i first tried listening to that conversation I thought lulu said that her teachers used to put tissues up her ass” - Sherry C
+66. “If my cells can do mitosis, why can’t I?” - Ratvi K
+67. “Why’s it called ethanoate? Why can’t it be called vinegar?” - Elain C, “Would you like some di-vinegar-ade?” - Ratvi K
+
+
 
