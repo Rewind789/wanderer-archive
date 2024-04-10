@@ -42,6 +42,7 @@ These 2 quotes go together. Very suspicious
 17. “Once in year 4, I randomly broke out in hives on my ass” - Luvenia Y
 18. “I had to poop in front of 5 doctors if that makes you feel better” - Luvenia Y
 19. “They all got to see my hairy ass 😭” - Luvenia Y
+20. "Yeah! Obliterate my sister...I approve" - Jie W
 
 
 
@@ -455,17 +456,18 @@ i dont know why it starts from 3 here but icbb fixing it
 37. “Toes are the key to everything” - Ms Banyard
 38. “Are you in love with Mr Casey’s wife?” _***to Lulu******_ - Rutvi K
 39. “I’m going to come around with a plastic bag asking for money” - Mr Cho
-40. “Don’t you hate that feeling when the shower rejects you?” - Rutvi K
-41. “_cries while stroking shower” -_ Lulu Y
-42. “You never know until you try” - Rutvi K
-43. “Gasps so hard I get an overdose of air” - Rutvi K
-44. “Is there any lore behind the ears” - Antonina L
-45. “ITS SIMPLE ****ING QUALIFICATION” - Some random kid
-46. "You need class to eat chopsticks " - Victoria C
-47. "I saw numbers and got scared" - Luvenia Y
-48. "I JUST WANT QUOTES KSLDJFHKSDFHJKSDJFHSKDF" - Luvenia Y
-49. "My primary school teacher used to put tissues in her bras" - Luvenia Y
-50. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
+40. "Yeah! Obliterate my sister...I approve..." - Jie W
+41. “Don’t you hate that feeling when the shower rejects you?” - Rutvi K
+42. “_cries while stroking shower” -_ Lulu Y
+43. “You never know until you try” - Rutvi K
+44. “Gasps so hard I get an overdose of air” - Rutvi K
+45. “Is there any lore behind the ears” - Antonina L
+46. “ITS SIMPLE ****ING QUALIFICATION” - Some random kid
+47. "You need class to eat chopsticks " - Victoria C
+48. "I saw numbers and got scared" - Luvenia Y
+49. "I JUST WANT QUOTES KSLDJFHKSDFHJKSDJFHSKDF" - Luvenia Y
+50. "My primary school teacher used to put tissues in her bras" - Luvenia Y
+51. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
 
 > [^1]: ASS + U + ME = ASSUME ._>
 
