@@ -39,4 +39,5 @@ give summary of genotype, then phenotype
 [x]% of offspring have/will express [trait]
 - list all other possibilities [if there are 3: AA, Aa, aa, then homozygous dominant AND heterozygous will lead to the dominant trait being expressed]
 
-[unfinished]
+## Cross Testing
+This is where you breed a animal with an unknown genotype with a homozygous recessive animal (e.g. a mouse that you want to find the genotype of and a white mouse which is homozygous recessive). You check the offspring and look at the patterns of inheritence to determine which is the most likely genotype of the mouse.
