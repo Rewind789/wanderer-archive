@@ -1,5 +1,5 @@
 ---
-title: "Mendel's Laws of Inheritence:
+title: "Mendel's Laws of Inheritence"
 ---
 
 Gregor Mendel (1830-1860s)
