@@ -488,6 +488,12 @@ i dont know why it starts from 3 here but icbb fixing it
 65. “When i first tried listening to that conversation I thought lulu said that her teachers used to put tissues up her ass” - Sherry C
 66. “If my cells can do mitosis, why can’t I?” - Ratvi K
 67. “Why’s it called ethanoate? Why can’t it be called vinegar?” - Elain C, “Would you like some di-vinegar-ade?” - Ratvi K
+68. "Once I cried in Violin class because I wanted toast" - Luvenia Y
+69. “I WAS TRYING TO WORK….AND THEN DONAL ASKED ME IF I FELT SORRY FOR A PIE WHEN I EAT IT (i do btw)” - Luvenia Y (her task is due like in 2 days and she hasn’t started)
+70. “Not only are you talking, but you are swearing out loud, you dumb arse”- Mr Young
+71. “Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo is for tragedy. But if its comedy its hahahahahahahahahahahahahaha. And if its a funny tragedy its nooooahahahahnoooooooooooooooooohahahahnoooooooooooooo” - Mr Bartonnn
+
+
 
 
 
