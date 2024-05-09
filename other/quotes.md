@@ -492,6 +492,12 @@ i dont know why it starts from 3 here but icbb fixing it
 69. “I WAS TRYING TO WORK….AND THEN DONAL ASKED ME IF I FELT SORRY FOR A PIE WHEN I EAT IT (i do btw)” - Luvenia Y (her task is due like in 2 days and she hasn’t started)
 70. “Not only are you talking, but you are swearing out loud, you dumb arse”- Mr Young
 71. “Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo is for tragedy. But if its comedy its hahahahahahahahahahahahahaha. And if its a funny tragedy its nooooahahahahnoooooooooooooooooohahahahnoooooooooooooo” - Mr Bartonnn
+72. "(;´༎ຶД༎ຶ`)" - Donal T
+73. "is a quadratic a square with 4 corners?" - Jacob N
+74. "It will make you smell like cake and boys. Will fight over you like you're the last slice. Enjambment!" - Mr Barton
+75. "what did you accerelate" - Mr. Watterson, "music" - Shan-mei W, "urgh" - Mr. Watterson
+76. "I'm not motivated, I'm avoiding 0%" - Antonina L
+77. "How did the boy justify killing the owl in this poem?" - Mr. Barton, "it's ugly" - Donal T, Kiefer Y
 
 
 
