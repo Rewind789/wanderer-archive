@@ -1,10 +1,9 @@
 ---
-title: "Boring Presentations"
+title: "Chinese Names"
 ---
 
-What makes a boring presentation? What motivates a bunch of year 10 students to actively pay attention to everything that a presenter says?
+Chinese names...
 
-I can never imagine myself fully concentrating on any talks about procrastination (and in fact, I stalled violin lessons once to skip **procrastination busters**)
-- IM SORRY, but I just cannot muster the energy at times
+Lots of people in our school are chinese, but some people don't have chinese names or don't use it at all, while some people's English names are based on their Chinese names. Why? 
 
-Anyway, what motivates people to listen to these talks? 
+My own Chinese name is Yuen Jie Feng (Yuen is my last name). 
