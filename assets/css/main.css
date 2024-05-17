@@ -9,7 +9,7 @@ html {
 	margin-left: 275px;
 	padding: 0;
 	text-align: justify;
-	background: #1b1d4a; 
+	background: #FFFFFF; 
 	font-family: 'Open Sans';
 }
 
@@ -141,8 +141,8 @@ body {
 	font-family: Calibri, 'Trebuchet MS', sans-serif;
   	font-size: 16px;
 	line-height: 1.88889;
-	color: #f0f9ff; 
-	background: #1b1d4a; 
+	color: #1b1d4a; 
+	background: #FFFFFF; 
 	margin: 0; 
 	padding: 0;
 }
@@ -151,17 +151,18 @@ p {
 	margin-top: 0;
 	text-align: left;
 	margin-left: 50px;
+	color: #1b1d4a
 }
 
 h1 {
-	color: #FFFFFF;
+	color: #1b1d4a;
 	font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 h2 {
 	font-family: Calibri, 'Trebuchet MS', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
-	color: #FFFFFF;
+	color: #1b1d4a;
 	margin-left: 50px;
 	text-align: left;
 }
@@ -170,7 +171,7 @@ h3 {
 	font-family: Calibri, 'Trebuchet MS', sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #FFFFFF;
+	color: #1b1d4aF;
 	margin-left: 50px;
 	text-align: left;
 }
@@ -192,10 +193,10 @@ h10 {
 .normal {
   border-width: 0px;
   /*background-color: #007bbf;*/
-  background-color: #171D3A;
+  background-color: #ffffff;
   transition-duration: 0.5s;
   overflow: auto;
-  color: #ffffff;
+  color: #171D3A;
 }
 
 
