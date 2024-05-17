@@ -539,7 +539,8 @@ i dont know why it starts from 3 here but icbb fixing it
 115. “Me? Work? Pfffffffffffft (spit)” - Mr. Barton
 116. “Mr Ellis is preggo.” - Mr. Barton
 117. “suppp borannnnn my sunshineeee my only sunshineeeeee. U SHINE EVERYDAYYY” - Luvenia Y
-118. "I want to have sex with u, Hank" - Mr. Rogers 
+118. "I want to have sex with u, Hank" - Mr. Rogers
+119. "sup Boran my sunshineeeeeeeeeee" - Luvenia Y
 
 
 
