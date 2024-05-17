@@ -6,4 +6,4 @@ not started...(this thing is under "construction")
 
 ~~im going insane~~
 
-[Boring Talks](rant1.md)
+[Chinese names](rant1.md)
