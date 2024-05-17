@@ -43,6 +43,7 @@ These 2 quotes go together. Very suspicious
 18. “I had to poop in front of 5 doctors if that makes you feel better” - Luvenia Y
 19. “They all got to see my hairy ass 😭” - Luvenia Y
 20. "Yeah! Obliterate my sister...I approve" - Jie W
+21. "I want to have sex with you, Hank" - Mr. Rogers
 
 
 
@@ -498,6 +499,48 @@ i dont know why it starts from 3 here but icbb fixing it
 75. "what did you accerelate" - Mr. Watterson, "music" - Shan-mei W, "urgh" - Mr. Watterson
 76. "I'm not motivated, I'm avoiding 0%" - Antonina L
 77. "How did the boy justify killing the owl in this poem?" - Mr. Barton, "it's ugly" - Donal T, Kiefer Y
+78. “DID HE SHOOT A BULLET INTO HIS MOUTH TO CHEW IT” - Nisha
+79. “They’re not dumb, they’re stupid” - Anvi K
+80. “Once I cried during violin because I wanted toast” – Lulu Y
+81. “Not only are you talking, but you are swearing out loud, you dumb arse”- Mr Young
+82. “Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo is for tragedy. But if its comedy its hahahahahahahahahahahahahaha. And if its a funny tragedy its nooooahahahahnoooooooooooooooooohahahahnoooooooooooooo” - Mr Bartonnn
+83. “No tattoo, no mark, no great white shark” - Elaine C, Ratvi K
+84. “Tiffer lets be space alpacas” - Luvenia Y
+85. “You don’t have to carry the whole choir” ~ misc to shammy
+86. “Move your gyatt…yea… I’m never saying that again” - Jacob N
+87. “My fingers are getting fatter.” ~ Ms Vivian
+88. “He’s asexual” ~ Ms Vivian
+89. “I’m not motivated, I’m avoiding 0%” - Ant
+90. “My wife has a perfume that says ‘makes you smell like cake and boys’. I was like what, boys smell gross and then I read the next line: 'will fight over you like you are the last slice of cake’. It’s ENJAMBMENT” – Mr Barton
+91. “[Australia] likes to think that we are better than we actually are”- Mr Watterson
+92. “What did you accelerate” - Mr Watterson. “Music” - Shan-Mei. “Urgh” - Mr Watterson
+93. “How did the boy in the poem justify killing the owl?” - Mr Barton, “It’s ugly” - Donal T
+94. “My savings account is my dad” - Pari R
+95. “Is a quadratic a square with four corners?” - Jacob’s friend
+96. “one day ill b important enuf that 4 ppl have to hold up my dress so that i can walk” – Luvenia Y
+97. “If you don’t like english, do english” - Mr Jaroseck
+98. “You have a test tomorrow so you better put it in your damn bag” - Mr Young
+99. “If your writing is trash it doesn’t matter if you write a conclusion.” - Mr Barton 
+100. “And then quadratics and cubics spawned in.” - Jacob H
+101. “Death fetish” - Mr Barton
+102. “Ooh thats…We don’t do that…” - Mr Barton
+103. “Who invented the Cartesian plane?” - Savir “Probably Cartesian” - Jacob H (fyi it’s a random dude called Rene Déscartes)
+104. “Really puts the ‘d i c’ into ‘perpendicular’ doesn’t it?” - Jacob H
+105. “So basically we ram a train into his butt” – Sherry C, “Maybe he’s used to it” – Donal T
+106. “I just want to kill his ass” – Kiefer Y, “THATS WHAT WE DO WITH THE TRAIN” – Donal T
+107. “You’re a bratty french stick” – Kiefer Y
+108. “NO I ACCIDENTALLY PRESSED HIS ASS” – Kiefer Y
+109. “Those are feet… you cannot convince me otherwise… OH WAIT THEY’RE HANDS” - Donal T 🙄
+110. “Look if I die laughter No I mean if I get run over by a car” - Ava-Mei FL
+111. “Go around without clothes on I don’t care” - Ms Vivian
+112. “Pretend you’re a nun” - Ms Vivian
+113. “This is extortment of children >:(“ - Victoria C
+114. “The author of that poem [in our english essay] was MARSHALL” - Donal T, “NO IT WAS MITCHELL” - Kiefer Y [searches it up] “HA IT WAS MITCHELL” - Kiefer Y
+115. “Me? Work? Pfffffffffffft (spit)” - Mr. Barton
+116. “Mr Ellis is preggo.” - Mr. Barton
+117. “suppp borannnnn my sunshineeee my only sunshineeeeee. U SHINE EVERYDAYYY” - Luvenia Y
+118. "I want to have sex with u, Hank" - Mr. Rogers 
+
 
 
 
