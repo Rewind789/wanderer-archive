@@ -37,6 +37,7 @@ html {
   transform: 0.5s;
   overflow: auto;
   opacity: 0.95;
+  border-right: 0px solid #ffffff;
 }
 
 .lis {
