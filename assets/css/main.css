@@ -17,7 +17,8 @@ html {
   position: fixed;
   /*background-color: black;/* #6a6b6c can be used as a backup colour if black doesn't look nice */
   background-color: #1b1d4a;
-  width: 450%;
+  width: 10000%;
+  margin-left: 0px;
   height: 60px;
   z-index: 1;
   opacity: 0.95;
@@ -35,7 +36,7 @@ html {
   height: 110%;
   transform: 0.5s;
   overflow: auto;
-  opacity: 1;
+  opacity: 0.95;
 }
 
 .lis {
