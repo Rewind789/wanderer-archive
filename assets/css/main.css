@@ -17,7 +17,7 @@ html {
   position: fixed;
   /*background-color: black;/* #6a6b6c can be used as a backup colour if black doesn't look nice */
   background-color: #1b1d4a;
-  width: 300%;
+  width: 450%;
   height: 60px;
   z-index: 1;
   opacity: 0.95;
@@ -52,7 +52,7 @@ html {
 .bar1, .bar2, .bar3 {
   width: 35px;
   height: 5px;
-  background-color: #ffffff; /*backup colour: #171D3A*/
+  background-color: #FF6F6F; /*backup colour: #171D3A*/
   margin: 6px -250px;
   transition: 0.5s;
 }
@@ -214,12 +214,6 @@ a:link {
 	color: #EB3D3D;
 }
 
-a:visited {
-	font-weight: bold;
-	text-decoration: none;
-	color: #DC3939;
-}
-
 a:hover, a:focus, a:active {
 	text-decoration: none;
 	color: #EB3D3D;
@@ -293,3 +287,6 @@ img {
   width: 400px;
 }
 
+.headTitle {
+	colour: #1b1d4a;
+}
