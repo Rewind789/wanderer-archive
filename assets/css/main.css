@@ -86,11 +86,12 @@ html {
 }
 
 .headTitle {
-    color: 171D3A;
+    color: ffffff;
     font-size: 25px;
     margin-left: -150px;
     margin-top: -40px;
     font-family: 'Open Sans';
+    z-index: 3;
 }
 
 html, body {
