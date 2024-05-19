@@ -14,6 +14,8 @@ WHY IS THIS NOT SYNCING....I'm getting schizophrenia...
 
 My inventory and library are currently in an establishment within the [Town](/wanderer-archive/the-town.md), an oasis where I rest and wander no further (even though I'm a wanderer....)
 
+RIGHT NOW IM EDITING THE COLOURS OF THIS THING AND ITS GOING HAYWIRE; I apologise if its hard to read while i fix it (should take a few days) - 19/05
+
 ---
 ## Navigation
 [Notes Archive](notes.md)
