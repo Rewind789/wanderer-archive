@@ -289,5 +289,13 @@ img {
 }
 
 .headTitle {
-	colour: #1b1d4a;
+	color: #1b1d4a;
+}
+
+button {
+	color: #EB3D3D;
+}
+
+.button {
+	color: #EB3D3D;
 }
