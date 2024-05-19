@@ -223,7 +223,6 @@ a:link {
 a:hover, a:focus, a:active {
 	text-decoration: none;
 	color: #EB3D3D;
-	background: #ffffff;
 }
 
 a:hover {
