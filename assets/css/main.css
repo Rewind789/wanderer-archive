@@ -17,7 +17,7 @@ html {
   position: fixed;
   /*background-color: black;/* #6a6b6c can be used as a backup colour if black doesn't look nice */
   background-color: #1b1d4a;
-  width: 300%;
+  width: 350%;
   margin-left: -15px;
   height: 60px;
   z-index: 1;
