@@ -28,7 +28,7 @@ html {
 }
 
 .nav {
-  background-color: #171D3A;
+  background-color: #1b1d4a;
   position: fixed;
   width: 20%;
   margin-top: 0px;
@@ -213,6 +213,7 @@ a:link {
 	font-weight: bold;
 	text-decoration: none;
 	color: #EB3D3D;
+	background: #1b1d4a;
 }
 
 a:hover, a:focus, a:active {
