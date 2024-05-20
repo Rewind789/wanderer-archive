@@ -10,7 +10,7 @@ Economics related stuff![^1]
 ## Test Notes
 
 
-## Victoria's Notes[^2]
+### Victoria's Notes[^2]
 
 [Victoria's Economics Notes](vic-economics.md)
 
