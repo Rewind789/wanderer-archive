@@ -49,6 +49,8 @@ These 2 quotes go together. Very suspicious
 24. “I am monkey. So very stoopid borangutang I am” - Boran Y (who claims it was Ethan T)
 > HE FINALLY ADMITTED IT
 
+25. "Pheasant + duck = phuck" - Kiefer Y
+
 The Great Avocado Analogy
 > 
 > the ~~great~~ avocado analogy “It’s like putting bread with an avocado and saying you’re allergic to the bread when you’re allergic to the avocado” - Ethan T
