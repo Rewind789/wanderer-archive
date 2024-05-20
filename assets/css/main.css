@@ -231,6 +231,9 @@ a:hover {
 	background: #ffffff;
 }
 
+a:visited {
+	color: #EB3D3D;
+
 abbr {
 	border-bottom: none;
 	text-decoration: #CFB784 dotted underline;
