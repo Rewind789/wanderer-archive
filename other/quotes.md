@@ -107,6 +107,8 @@ shammy: they eating papers now
 
 ...more quotes....
 ### Quotes
+
+### 2022
 1. “Its supposed to be basic but its not being basic” - Seneja W
 2. “…” - Kiefer Y
 3. “stawp” - Kiefer Y
@@ -312,143 +314,146 @@ shammy: they eating papers now
 205. _to Ethan_ “Your hair looks like a lake” - Donal T
 206. _to Rutvi_ “Your hair looks like a waterfall” - Donal T
 207. “Beatboxing Beetrots Beating your parents while your parents Beetbox while Boxing the Beetroots with Boxes that Beatbox and beat you.” - Donal T
-208. “All idiots are idiots, but some are more idiot” - Donal T
-209. “’How’ is a verb” - Donal T
-210. “Anton is a stupid” - Donal T
-211. “Idiont” - Ellie M
-212. “Kamala have fooouuuur chikn. Ah-beng come take twoooooooo chikn away. how many chikn does Kamala have left??? Hooow…. Manyyy…. CHIKN?!?!? HOW MANY CHIKN?!?!?!?!?” - Arielle A, Luvenia Y, Ellie M
-213. “Have you drewn a card yet?” Kiefer Y
-214. “SH_T …. (3 secs later) Stop swearing” - Antonina L
-215. “My dad recently got reading glasses” _Rutvi talking to crystal_ “I know” - Crystal L
-216. “You could just drink the water out of the air” - Antonina L
-217. “Disagreesion” - Rutvi K
-218. “Hey bobo, do you wanna play base ketball?” - Rutvi K
-219. “My pointy teeth are ree-doo-ta-bulls” - Donal T
-220. _singing_ “Five little Hitlers jumping on the bed” - Donal T
-221. “The rock needs mental health” - Donal T
-222. “If the rock wanted to eat I feel like it would like bagels. Its just a bagel type of rock.” - Donal T
-223. “Anton are you the rock?” - Donal T
-224. “Do rocks wear clothes” - Donal T
-225. “Perth Mod Children Attempt To Find The Date” - Sonia Y
-226. “ANTON, HOW DARE YOU SUMMON THE LUVENIA DEMON” - Donal T
-227. “Are you a demon?” - Donal T
-228. “I just realised, everyone here is single” - Tanishka M
-229. “Stop the gravity” - Harry H
-230. “I wrote so much and still got a 0” - Sunny K
-231. “I don’t want to touch you” + some other racist stoff - Nimsith cos it’s Nimsith
-232. “I dreamt I was a rock last night” - Luvenia Y
-233. “It has come to my tattention” - Luvenia Y
-234. “Immoral Support” - Donal T
-235. “DONT QUESTION THE ARMS OF THE PEASANT” - Donal T
-236. “Sunny Hiroshima” - Tanishka M
-237. “Shi-, I thought you were doctor Dre” - Tanishka M
-238. “Wata wata glug glug glug” - Ethan T
-239. “Don’t you love hacking into websites for information?” - Rutvi K, Ellie M
-240. To Anton “You are the Siberia” - Donal T
-241. “Oh the miserability” - Donal T
-242. “60 quotes anton, 60. and those are the ones we can remember” - Donal T
-243. “Brendan will you marry me” - Paxton B, “What do you think Paxton. NO.” - Brendan D
-244. “I turned into a garden” - Donal T
-245. “It doesn’t look that good” - Donal T, “Of course not it’s a chopping board” - Brendan D
-246. “I got hit by a car and I’m slightly annoyed” - Antonina L
-247. “Hiii. I’m lulu. Simple things confuse me. Oh look! An ant! Oh wait, its a mirror” - Crystal L, Arielle A
-248. “We’re bullying each other” - Ms Christmass “I see” - Ms Roy
-249. “Like a truck about to run you over” - Ms Christmass
-250. “WILL YOU COME TO MY HOUSE? NO WE WON’T NO WE WON’T” -Ms Christmass
-251. “I did not just nearly run into a bin” - Rutvi K
-252. “If I could choose to be allergic to something, I would choose something stupid… like the ceiling.” - Donal T
-253. “What did you learn in science today? PIZZAS ARE GAS” - Donal T
-254. “Is your China different to mine?” - Minnie P
-255. “Looks like a demented flower. That wants to eat an otter. You know?” - Donal T
-256. “It just gives you an otter-eating vibe.” - Donal T
-257. “And your face is ✨p l a s t e r✨” - Felix T
-258. “I NEED TO DO MY PANCAKE FLIPPIN’ SCIENCE NOTES. _Thinks for a moment, what rhymes with ‘notes’?_ TO FLIP A GOAT. _Yes that rhymes” -_ Rutvi K
-259. “Not pancake-flipping-science-notes” - Donal T
-260. “Is your phone touch-screen?” - Rutvi K
-261. _visibly caresses necklace_ - Ethan T talking ‘bout Donal
-262. “murder murder murder murder” - Kiefer Y
-263. “The Siberia is angled AUSTRALIA-WARDS” - Donal T
-264. “You roll up a child in snow, and throw it at another child, and throw them both down the hill, whilst gathering up more children on the way. And casually throw them off a cliff” - Antonina L, Rutvi K
-265. “Its so satisfying slapping the hell out of a child” - Antonina L
-266. “तुम बहुत मूर्ख हो, ना! (Tum Bohat Murkh Ho Naa)” - Donal T
-267. “Everything’s civil when Ethan’s not here” - Antonina L
-268. “Lucas is in there throwing a random brick” - Ethan T
-269. “A Gourmet Brick” - Ethan T
-270. “Alex looks like Tofu” - Kiefer Y
-271. “I need to borrow my own charger” - Donal T
-272. “How do I borrow my own charger?” - Donal T
-273. “Do you have a red pen or Ellie or something?” - Antonina L, talking to Donal T
-274. “Why are the assassins so fat” - Kiefer Y
-275. “Corrupt Fruit Cake Miners” - Donal T
-276. “How dare we forget about the fruit cake detergent corruption” - Donal T
-277. “Now I’m trying to clean the detergent not the fruit cake” - Ellie M
-278. _picks up thirtieth tissue_ “Just one more wipe - Ellie M
-279. “This cake is totally fruit rind” - Ellie M
-280. “Don’t you love being corrupt in science?” - Donal T
-281. “Bacon plus bacon equals more bacon” - Donal T
-282. “My laptop just deaded” - Sherry C
-283. “DANGIT I LOST MS CHRISTMASS’S PHONE NUMBER” - Donal T
-284. “Alrighty small children” - Ms Wordsworth
-285. “Can I destroy people?” - Ellie M
-286. “Good gut ing pottes incorrect” - Antonina L
-287. “I like egg but I hate egg wait what” - Ellie M
-288. “Don’t talk to me about indian stuff i am racist” - Sherry C
-289. “Grow faster, babies grow!!” - Ethan T
-290. _In Mills_, “It smells like sugar cookies” - Arielle A, “It smells like petrol” - Ellie M
-291. Dipping his hands in hydrogel (weird white substance) “My hands feel weird/white, and I love it” - Ethan T
-292. “It’s like bathing in orbies.” - Ethan T
-293. “Stop being depressed you stupid kid” - Luvenia Y
-294. “I dreamt that I was a tomato digging a hole in the ground… I had hands by the way, and my backyard was covered in dead sheep and cats. It was funny” - Luvenia Y
-295. “blood cos its bloody” - Arielle A
-296. “We need to go down this oil-hole” - Donal T
-297. “Where is the oil?” - Antonina L ”It’s in Miss Ransom. I guess the US will have to invade our science teacher now” - Donal T
-298. “You simp for a cookie?” - Rowan B, “Yes” - Kiefer Y
-299. “Tell Luvenia to give me back my grades” - Donal T
-300. “We stole the unsuspecting measuring cylinder’s unsuspecting water crystal childlings and abused them” - Donal T
-301. “THE GRAVE OF CHILD” - Donal T
-302. “Just shut up” - Antonina L
-303. “Threading wires through toilet rolls. I AM THE TOILET ROLLS” - Donal T
-304. “I don’t want to be a middle aged lady with a bunch of kids but I do want that car” - Ekaterina K
-305. “Are you toe-ist?” - Ekaterina K
-306. “Are you counting your toe as a finger” - Elaine C
-307. “Yes I am toe-ist” - Elaine C
-308. “I’ve held many eyeballs in my life. Not the eyeballs of my students, don’t worry.” - Ms Lydon
-309. “You can get away with murder” - Ms Brayshay
-310. “Your name is Spork now” - Ethan T
-311. “Romcoms are hilaarious” - Avash S
-312. “I can’t speak today” - Avash S, after presenting a five hour speech in HASS
-313. “Yellow tie sadface” - Video in HASS
-314. “There was this old lady who is always grumpy… I think she’s just pissed off as a personality” - Mr Paranchody
-315. “If you put a chicken in the ocean and make it into curry, would it count as seafood?” - Donal T, “I think it would just be really salty” - Cass O
-316. “Shakespeare was a part of Shakespeare” - Donal T
-317. “Shakespeare was a part of everything that was and everything that will be, everything that never was and everything that never will be, everything that was and never will be, and everything that never was and will be” - Aaron T
-318. “Have you ever seen me talk?” - Sunny K
-319. “I am allowed to psychologically scar you” - Aditi R, “Well she’s not wrong” - Donal T
-320. “I went on a campaign to harrass the hell out of the police” - Mr Paranchody
-321. “I am not Kiefer please do not insult me” - Crystal L
-322. I hate myself, I hate myself, I hate myself. _casually turns to Kiefer_ But I hate you more.” - Luvenia Y
-323. “Albert Einstein was an American-English fish” - Anvi K (Rutvi K’s sister)
-324. “Eat ur veggies kids” - Arielle Ang
-325. “Eat ur kids veggies” - Ratvi K
-326. “_Hahaa I’m not a huge fan of…. stuff with faces_” - Luvenia Y
-327. “When you open doors you can’t open them” - Sherry C
-328. “I NEED TO FIND A BUCKET OF BLOOD” - Sherry C
-329. “Satan gets banished” - Avash S
-330. “Florida’s a SWING STATE?” - Avash S
-331. “You think Florida would decide about anything?” - Brendan D
-332. “Look it’s me” - Donal T, “Yuck” - Edwin T (Donal’s brother)
-333. “I don’t know how to draw abs…” - Mihindee W
-334. “I know he’s a dictator but you shouldn’t vandalise his face” - Mr Paranchody
-335. “Anything round and from Italy is a pizza” - Kiefer Y
-336. “Lets add some hashtags” - Antonina L, referring to sharps
-337. “And if thee shall tear our holy boundings asunder, than was hast mine thus bringing not of rain, but of silt and ire”
-338. "I used to be so fat" - Donal T
-339. *talking to Harry* "Why does your name have a bracket at the end every time it appears" - Kiefer Y
-340. "Crystal and Mr Young hold hands" - hunger games simulator
-341. "Arielle and Crystal work together to drown Mr. Young" - hunger games simulator
-342. "White rice > brown rice. We're racist over here" - anonymous
-343. "I suggested a torture chamber, but for some reason everyone was against it" - Lulu Y
-344.  “I don’t know the daily soap intake” - Rutvi K
+
+### 2023
+
+209. “All idiots are idiots, but some are more idiot” - Donal T
+210. “’How’ is a verb” - Donal T
+211. “Anton is a stupid” - Donal T
+212. “Idiont” - Ellie M
+213. “Kamala have fooouuuur chikn. Ah-beng come take twoooooooo chikn away. how many chikn does Kamala have left??? Hooow…. Manyyy…. CHIKN?!?!? HOW MANY CHIKN?!?!?!?!?” - Arielle A, Luvenia Y, Ellie M
+214. “Have you drewn a card yet?” Kiefer Y
+215. “SH_T …. (3 secs later) Stop swearing” - Antonina L
+216. “My dad recently got reading glasses” _Rutvi talking to crystal_ “I know” - Crystal L
+217. “You could just drink the water out of the air” - Antonina L
+218. “Disagreesion” - Rutvi K
+219. “Hey bobo, do you wanna play base ketball?” - Rutvi K
+220. “My pointy teeth are ree-doo-ta-bulls” - Donal T
+221. _singing_ “Five little Hitlers jumping on the bed” - Donal T
+222. “The rock needs mental health” - Donal T
+223. “If the rock wanted to eat I feel like it would like bagels. Its just a bagel type of rock.” - Donal T
+224. “Anton are you the rock?” - Donal T
+225. “Do rocks wear clothes” - Donal T
+226. “Perth Mod Children Attempt To Find The Date” - Sonia Y
+227. “ANTON, HOW DARE YOU SUMMON THE LUVENIA DEMON” - Donal T
+228. “Are you a demon?” - Donal T
+229. “I just realised, everyone here is single” - Tanishka M
+230. “Stop the gravity” - Harry H
+231. “I wrote so much and still got a 0” - Sunny K
+232. “I don’t want to touch you” + some other racist stoff - Nimsith cos it’s Nimsith
+233. “I dreamt I was a rock last night” - Luvenia Y
+234. “It has come to my tattention” - Luvenia Y
+235. “Immoral Support” - Donal T
+236. “DONT QUESTION THE ARMS OF THE PEASANT” - Donal T
+237. “Sunny Hiroshima” - Tanishka M
+238. “Shi-, I thought you were doctor Dre” - Tanishka M
+239. “Wata wata glug glug glug” - Ethan T
+240. “Don’t you love hacking into websites for information?” - Rutvi K, Ellie M
+241. To Anton “You are the Siberia” - Donal T
+242. “Oh the miserability” - Donal T
+243. “60 quotes anton, 60. and those are the ones we can remember” - Donal T
+244. “Brendan will you marry me” - Paxton B, “What do you think Paxton. NO.” - Brendan D
+245. “I turned into a garden” - Donal T
+246. “It doesn’t look that good” - Donal T, “Of course not it’s a chopping board” - Brendan D
+247. “I got hit by a car and I’m slightly annoyed” - Antonina L
+248. “Hiii. I’m lulu. Simple things confuse me. Oh look! An ant! Oh wait, its a mirror” - Crystal L, Arielle A
+249. “We’re bullying each other” - Ms Christmass “I see” - Ms Roy
+250. “Like a truck about to run you over” - Ms Christmass
+251. “WILL YOU COME TO MY HOUSE? NO WE WON’T NO WE WON’T” -Ms Christmass
+252. “I did not just nearly run into a bin” - Rutvi K
+253. “If I could choose to be allergic to something, I would choose something stupid… like the ceiling.” - Donal T
+254. “What did you learn in science today? PIZZAS ARE GAS” - Donal T
+255. “Is your China different to mine?” - Minnie P
+256. “Looks like a demented flower. That wants to eat an otter. You know?” - Donal T
+257. “It just gives you an otter-eating vibe.” - Donal T
+258. “And your face is ✨p l a s t e r✨” - Felix T
+259. “I NEED TO DO MY PANCAKE FLIPPIN’ SCIENCE NOTES. _Thinks for a moment, what rhymes with ‘notes’?_ TO FLIP A GOAT. _Yes that rhymes” -_ Rutvi K
+260. “Not pancake-flipping-science-notes” - Donal T
+261. “Is your phone touch-screen?” - Rutvi K
+262. _visibly caresses necklace_ - Ethan T talking ‘bout Donal
+263. “murder murder murder murder” - Kiefer Y
+264. “The Siberia is angled AUSTRALIA-WARDS” - Donal T
+265. “You roll up a child in snow, and throw it at another child, and throw them both down the hill, whilst gathering up more children on the way. And casually throw them off a cliff” - Antonina L, Rutvi K
+266. “Its so satisfying slapping the hell out of a child” - Antonina L
+267. “तुम बहुत मूर्ख हो, ना! (Tum Bohat Murkh Ho Naa)” - Donal T
+268. “Everything’s civil when Ethan’s not here” - Antonina L
+269. “Lucas is in there throwing a random brick” - Ethan T
+270. “A Gourmet Brick” - Ethan T
+271. “Alex looks like Tofu” - Kiefer Y
+272. “I need to borrow my own charger” - Donal T
+273. “How do I borrow my own charger?” - Donal T
+274. “Do you have a red pen or Ellie or something?” - Antonina L, talking to Donal T
+275. “Why are the assassins so fat” - Kiefer Y
+276. “Corrupt Fruit Cake Miners” - Donal T
+277. “How dare we forget about the fruit cake detergent corruption” - Donal T
+278. “Now I’m trying to clean the detergent not the fruit cake” - Ellie M
+279. _picks up thirtieth tissue_ “Just one more wipe - Ellie M
+280. “This cake is totally fruit rind” - Ellie M
+281. “Don’t you love being corrupt in science?” - Donal T
+282. “Bacon plus bacon equals more bacon” - Donal T
+283. “My laptop just deaded” - Sherry C
+284. “DANGIT I LOST MS CHRISTMASS’S PHONE NUMBER” - Donal T
+285. “Alrighty small children” - Ms Wordsworth
+286. “Can I destroy people?” - Ellie M
+287. “Good gut ing pottes incorrect” - Antonina L
+288. “I like egg but I hate egg wait what” - Ellie M
+289. “Don’t talk to me about indian stuff i am racist” - Sherry C
+290. “Grow faster, babies grow!!” - Ethan T
+291. _In Mills_, “It smells like sugar cookies” - Arielle A, “It smells like petrol” - Ellie M
+292. Dipping his hands in hydrogel (weird white substance) “My hands feel weird/white, and I love it” - Ethan T
+293. “It’s like bathing in orbies.” - Ethan T
+294. “Stop being depressed you stupid kid” - Luvenia Y
+295. “I dreamt that I was a tomato digging a hole in the ground… I had hands by the way, and my backyard was covered in dead sheep and cats. It was funny” - Luvenia Y
+296. “blood cos its bloody” - Arielle A
+297. “We need to go down this oil-hole” - Donal T
+298. “Where is the oil?” - Antonina L ”It’s in Miss Ransom. I guess the US will have to invade our science teacher now” - Donal T
+299. “You simp for a cookie?” - Rowan B, “Yes” - Kiefer Y
+300. “Tell Luvenia to give me back my grades” - Donal T
+301. “We stole the unsuspecting measuring cylinder’s unsuspecting water crystal childlings and abused them” - Donal T
+302. “THE GRAVE OF CHILD” - Donal T
+303. “Just shut up” - Antonina L
+304. “Threading wires through toilet rolls. I AM THE TOILET ROLLS” - Donal T
+305. “I don’t want to be a middle aged lady with a bunch of kids but I do want that car” - Ekaterina K
+306. “Are you toe-ist?” - Ekaterina K
+307. “Are you counting your toe as a finger” - Elaine C
+308. “Yes I am toe-ist” - Elaine C
+309. “I’ve held many eyeballs in my life. Not the eyeballs of my students, don’t worry.” - Ms Lydon
+310. “You can get away with murder” - Ms Brayshay
+311. “Your name is Spork now” - Ethan T
+312. “Romcoms are hilaarious” - Avash S
+313. “I can’t speak today” - Avash S, after presenting a five hour speech in HASS
+314. “Yellow tie sadface” - Video in HASS
+315. “There was this old lady who is always grumpy… I think she’s just pissed off as a personality” - Mr Paranchody
+316. “If you put a chicken in the ocean and make it into curry, would it count as seafood?” - Donal T, “I think it would just be really salty” - Cass O
+317. “Shakespeare was a part of Shakespeare” - Donal T
+318. “Shakespeare was a part of everything that was and everything that will be, everything that never was and everything that never will be, everything that was and never will be, and everything that never was and will be” - Aaron T
+319. “Have you ever seen me talk?” - Sunny K
+320. “I am allowed to psychologically scar you” - Aditi R, “Well she’s not wrong” - Donal T
+321. “I went on a campaign to harrass the hell out of the police” - Mr Paranchody
+322. “I am not Kiefer please do not insult me” - Crystal L
+323. I hate myself, I hate myself, I hate myself. _casually turns to Kiefer_ But I hate you more.” - Luvenia Y
+324. “Albert Einstein was an American-English fish” - Anvi K (Rutvi K’s sister)
+325. “Eat ur veggies kids” - Arielle Ang
+326. “Eat ur kids veggies” - Ratvi K
+327. “_Hahaa I’m not a huge fan of…. stuff with faces_” - Luvenia Y
+328. “When you open doors you can’t open them” - Sherry C
+329. “I NEED TO FIND A BUCKET OF BLOOD” - Sherry C
+330. “Satan gets banished” - Avash S
+331. “Florida’s a SWING STATE?” - Avash S
+332. “You think Florida would decide about anything?” - Brendan D
+333. “Look it’s me” - Donal T, “Yuck” - Edwin T (Donal’s brother)
+334. “I don’t know how to draw abs…” - Mihindee W
+335. “I know he’s a dictator but you shouldn’t vandalise his face” - Mr Paranchody
+336. “Anything round and from Italy is a pizza” - Kiefer Y
+337. “Lets add some hashtags” - Antonina L, referring to sharps
+338. “And if thee shall tear our holy boundings asunder, than was hast mine thus bringing not of rain, but of silt and ire”
+339. "I used to be so fat" - Donal T
+340. *talking to Harry* "Why does your name have a bracket at the end every time it appears" - Kiefer Y
+341. "Crystal and Mr Young hold hands" - hunger games simulator
+342. "Arielle and Crystal work together to drown Mr. Young" - hunger games simulator
+343. "White rice > brown rice. We're racist over here" - anonymous
+344. "I suggested a torture chamber, but for some reason everyone was against it" - Lulu Y
+345.  “I don’t know the daily soap intake” - Rutvi K
 
 i dont know why it starts from 3 here but icbb fixing it
 
@@ -491,17 +496,21 @@ i dont know why it starts from 3 here but icbb fixing it
 38. “Are you in love with Mr Casey’s wife?” _***to Lulu******_ - Rutvi K
 39. “I’m going to come around with a plastic bag asking for money” - Mr Cho
 40. "Yeah! Obliterate my sister...I approve..." - Jie W
-41. “Don’t you hate that feeling when the shower rejects you?” - Rutvi K
-42. “_cries while stroking shower” -_ Lulu Y
-43. “You never know until you try” - Rutvi K
-44. “Gasps so hard I get an overdose of air” - Rutvi K
-45. “Is there any lore behind the ears” - Antonina L
-46. “ITS SIMPLE ****ING QUALIFICATION” - Some random kid
-47. "You need class to eat chopsticks " - Victoria C
-48. "I saw numbers and got scared" - Luvenia Y
-49. "I JUST WANT QUOTES KSLDJFHKSDFHJKSDJFHSKDF" - Luvenia Y
-50. "My primary school teacher used to put tissues in her bras" - Luvenia Y
-51. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
+
+### 2024
+
+
+42. “Don’t you hate that feeling when the shower rejects you?” - Rutvi K
+43. “_cries while stroking shower” -_ Lulu Y
+44. “You never know until you try” - Rutvi K
+45. “Gasps so hard I get an overdose of air” - Rutvi K
+46. “Is there any lore behind the ears” - Antonina L
+47. “ITS SIMPLE ****ING QUALIFICATION” - Some random kid
+48. "You need class to eat chopsticks " - Victoria C
+49. "I saw numbers and got scared" - Luvenia Y
+50. "I JUST WANT QUOTES KSLDJFHKSDFHJKSDJFHSKDF" - Luvenia Y
+51. "My primary school teacher used to put tissues in her bras" - Luvenia Y
+52. "When you assume, you make asses of u and me" - Dr. Bouwer (retold by Donal T)
 
 > [^1]: ASS + U + ME = ASSUME ._>
 
@@ -574,7 +583,7 @@ i dont know why it starts from 3 here but icbb fixing it
 117. “suppp borannnnn my sunshineeee my only sunshineeeeee. U SHINE EVERYDAYYY” - Luvenia Y
 118. "I want to have sex with u, Hank" - Mr. Rogers
 119. "sup Boran my sunshineeeeeeeeeee" - Luvenia Y
-
+120. "We treat STIs like Pokemon" - Mr. Barton, "Gotta Catch 'Em All" - Kiefer Y
 
 
 
