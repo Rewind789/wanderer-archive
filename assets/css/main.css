@@ -28,7 +28,7 @@ html {
 }
 
 .nav {
-  background-color: #1b1d4a;
+  background-color: #296BA2;
   position: fixed;
   width: 20%;
   margin-top: 0px;
@@ -217,7 +217,7 @@ a:link {
 	font-weight: bold;
 	text-decoration: none;
 	color: #EB3D3D;
-	background: transparent;
+	background-color: transparent;
 }
 
 a:hover, a:focus, a:active {
@@ -233,6 +233,7 @@ a:hover {
 
 a:visited {
 	color: #EB3D3D;
+	background-color: transparent;
 
 abbr {
 	border-bottom: none;
