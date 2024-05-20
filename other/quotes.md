@@ -44,13 +44,44 @@ These 2 quotes go together. Very suspicious
 19. “They all got to see my hairy ass 😭” - Luvenia Y
 20. "Yeah! Obliterate my sister...I approve" - Jie W
 21. "I want to have sex with you, Hank" - Mr. Rogers
+22. "Kiefer YUEN, why are u zestier than Harry Huang" - Kieran Ng, "Why is Harry Huang a benchmark for zestiness" - Kiefer Y
+23. "We treat STIs like Pokemon" - Mr. Barton, "Gotta Catch 'Em All" - Kiefer Y
+24. “I am monkey. So very stoopid borangutang I am” - Boran Y (who claims it was Ethan T)
+> HE FINALLY ADMITTED IT
 
-
-
-
-> The Great Avocado Analogy
+The Great Avocado Analogy
 > 
 > the ~~great~~ avocado analogy “It’s like putting bread with an avocado and saying you’re allergic to the bread when you’re allergic to the avocado” - Ethan T
+
+[THE MATH CHRONICLES]
+THE MATH CRONICLES: EPISODE 1
+
+**mr young walks around**
+
+mr young: how is the math going
+
+shammy: the meth is cooking very nicely
+
+mr young: ... i'm telling the principal
+
+THE MATH CRONICLES: EPISODE 2
+
+**writes (0,0)**
+
+donal: omg its an owl
+
+shammy: thats a funky owl
+
+donal: thats not the owls fault
+
+THE MATH CRONICLES: EPISODE 3
+
+shammy: the meth people are eating meth right now
+
+donal, karina: what
+
+shammy: they eating papers now
+
 
 
 [Highlight Conversation]
@@ -541,6 +572,7 @@ i dont know why it starts from 3 here but icbb fixing it
 117. “suppp borannnnn my sunshineeee my only sunshineeeeee. U SHINE EVERYDAYYY” - Luvenia Y
 118. "I want to have sex with u, Hank" - Mr. Rogers
 119. "sup Boran my sunshineeeeeeeeeee" - Luvenia Y
+
 
 
 
