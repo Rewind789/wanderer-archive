@@ -28,7 +28,7 @@ html {
 }
 
 .nav {
-  background-color: #296BA2;
+  background-color: #000000;
   position: fixed;
   width: 20%;
   margin-top: 0px;
@@ -161,6 +161,7 @@ p {
 h1 {
 	color: #1b1d4a;
 	font-family: Calibri, 'Trebuchet MS', sans-serif;
+	text-align: centre;
 }
 h2 {
 	font-family: Calibri, 'Trebuchet MS', sans-serif;
@@ -220,6 +221,11 @@ a:link {
 	background-color: transparent;
 }
 
+
+a:visited {
+	color: #EB3D3D;
+	background-color: transparent;
+}
 a:hover, a:focus, a:active {
 	text-decoration: none;
 	color: #EB3D3D;
@@ -230,10 +236,6 @@ a:hover {
 	color: #1b1d4a;
 	background: #ffffff;
 }
-
-a:visited {
-	color: #EB3D3D;
-	background-color: transparent;
 
 abbr {
 	border-bottom: none;
