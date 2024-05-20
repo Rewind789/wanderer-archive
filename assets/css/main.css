@@ -28,7 +28,7 @@ html {
 }
 
 .nav {
-  background-color: #030049;
+  background-color: #1b1d4a;
   position: fixed;
   width: 20%;
   margin-top: 0px;
@@ -36,7 +36,7 @@ html {
   height: 110%;
   transform: 0.5s;
   overflow: auto;
-  opacity: 0.95;
+  opacity: 0.9;
   border-right: 0px solid #ffffff;
 }
 
