@@ -28,3 +28,5 @@ Everything in Year 10 (2024)
 ## [English Archive](/year-10/english/english.md)
 
 [English vs Lit](/year-10/english/englishvslit.md)
+
+[Language Conventions and Poetic Devices](/year-10/english/languageconventions.md)
