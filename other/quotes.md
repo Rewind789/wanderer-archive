@@ -50,6 +50,7 @@ These 2 quotes go together. Very suspicious
 > HE FINALLY ADMITTED IT
 
 25. "Pheasant + duck = phuck" - Kiefer Y
+26. "How did you do ur driving test if you're only 14? (I skipped Grade 3 btw)" - Ari A, "skillfully" - Kiefer Y, "skillfully my ass-" - Ari A
 
 The Great Avocado Analogy
 > 
