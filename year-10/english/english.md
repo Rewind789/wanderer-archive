@@ -9,3 +9,5 @@ A lot of english notes
 We cover Film, Drama and Poetry in Semester 1
 
 [English Vs Lit](englishvslit.md)
+
+[Language Conventions and Poetic Devices](languageconventions.md)
