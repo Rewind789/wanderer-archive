@@ -7,10 +7,9 @@ Everything in Year 10 (2024)
 ## Subjects
 
 ## [Science](/year-10/science/science.md) 
-> Page with all science subjects...but honestly you could just use the links beneath this (it's the same)
 
 [Biology Archive 1](/year-10/science/bio/biology.md)
-> We do biology once in semester 1 and semester 2 so 1 is semester 1...etc. (same for other science subjects)
+> We do biology once in semester 1 and semester 2 so 1 is semester 1...etc. (same for other science subjects)...its why I put the 1 there
 
 
 ## [Economics Archive](/year-10/economics/economics.md)
