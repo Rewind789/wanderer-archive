@@ -8,8 +8,7 @@ Everything in Year 10 (2024)
 
 ## [Science](/year-10/science/science.md) 
 
-[Biology Archive 1](/year-10/science/bio/biology.md)
-> We do biology once in semester 1 and semester 2 so 1 is semester 1...etc. (same for other science subjects)...its why I put the 1 there
+[Biology Archive 1](/year-10/science/bio/biology.md)[^1]
 
 
 ## [Economics Archive](/year-10/economics/economics.md)
@@ -29,3 +28,5 @@ Everything in Year 10 (2024)
 [English vs Lit](/year-10/english/englishvslit.md)
 
 [Language Conventions and Poetic Devices](/year-10/english/languageconventions.md)
+
+[^1]: Biology 1/Chemistry 1/Physics 1 or 2 means that because we repeat the units in Semester 1 and 2, I use 1/2 to indicate which semester (we do different things in each bio/chem/physics unit each semester)
