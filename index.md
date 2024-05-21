@@ -12,7 +12,7 @@ WHY IS THIS NOT SYNCING....I'm getting schizophrenia...
 >
 > also from randoms (my friends) asking if I am genshin related, I AM NOT TwT   ~~i do play genshin and star rail tho~~
 
-My inventory and library are currently in an establishment within the [Town](/the-town.md), an oasis where I rest and wander no further (even though I'm a wanderer....)
+My inventory and library are currently in an establishment within the [Town](the-town.md), an oasis where I rest and wander no further (even though I'm a wanderer....)
 
 RIGHT NOW IM EDITING THE COLOURS OF THIS THING AND ITS GOING HAYWIRE; I apologise if its hard to read while i fix it (should take a few days) - 19/05
 
