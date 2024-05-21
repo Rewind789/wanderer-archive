@@ -585,6 +585,9 @@ i dont know why it starts from 3 here but icbb fixing it
 118. "I want to have sex with u, Hank" - Mr. Rogers
 119. "sup Boran my sunshineeeeeeeeeee" - Luvenia Y
 120. "We treat STIs like Pokemon" - Mr. Barton, "Gotta Catch 'Em All" - Kiefer Y
+121. "chotto matte kudasai" - Mr Young
+122. "F# Harmonic Natural Minor" - Rutvi K
+123. "I like my women racist" - Jenny W, "I am a racist woman" - Aaron T
 
 
 
