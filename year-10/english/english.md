@@ -12,4 +12,4 @@ We cover Film, Drama and Poetry in Semester 1
 
 [Language Conventions and Poetic Devices](languageconventions.md)
 
-[English Exam Details (Semester 1]](exam1.md)
+[English Exam Details (Semester 1)](exam1.md)
