@@ -9,6 +9,19 @@ Everything in Year 10 (2024)
 ## [Science](/year-10/science/science.md) 
 
 [Biology Archive 1](/year-10/science/bio/biology.md)[^1]
+- [DNA](/year-10/science/bio/dna.md)
+- [DNA replication](/year-10/science/bio/dna-replication.md)
+- [Protein Synthesis](/year-10/science/bio/protein-synthesis.md)
+- [Mitosis](/year-10/science/bio/mitosis.md) and [Meiosis](/year-10/science/bio/meiosis.md)
+- [Genetics (Overview)](/year-10/science/bio/genetics.md)
+- [Punnett Squares](/year-10/science/bio/punnett-square.md)
+- [Types of Inheritence](/year-10/science/bio/allele-inheritance.md)
+- [Laws of Inheritence]((/year-10/science/bio/laws.md)
+- [Determining the Mode of Inheritence](/year-10/science/bio/tricks.md)
+- [Example Diseases](/year-10/science/bio/diseases.md)
+- [Natural Selection](/year-10/science/bio/natural-selection.md)
+- [Mutations](/year-10/science/bio/mutation.md)
+- [Extended Response Guide](/year-10/science/bio/extended-response.md) 
 
 
 ## [Economics Archive](/year-10/economics/economics.md)
