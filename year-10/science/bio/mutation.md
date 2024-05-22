@@ -6,7 +6,7 @@ Mutations are genetic variation in DNA (that are abnormal) and they can have dra
 
 ## Types of Mutation
 
-![Types of Mutations](/wanderer-archive/assets/images/mutation-types.jpg)
+![Types of Mutations](/wanderer-archive/assets/images/mutations-types.jpg)
 
 - Point mutations: deletion, addition or substitution in the nucleotides. (Deletion is when a nucleotide is missing, addition is when an extra one is added, and substitution is when a different nucleotide is added in place of something else that was supposed to be there)
 - All point mutations happen during DNA replication. If not corrected, they can be passed on during cell division (and its bad)
