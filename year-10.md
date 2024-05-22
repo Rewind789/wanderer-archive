@@ -29,4 +29,6 @@ Everything in Year 10 (2024)
 
 [Language Conventions and Poetic Devices](/year-10/english/languageconventions.md)
 
+[English Semester 1 Exam Info](/year-10/english/exam1.md)
+
 [^1]: Biology 1/Chemistry 1/Physics 1 or 2 means that because we repeat the units in Semester 1 and 2, I use 1/2 to indicate which semester (we do different things in each bio/chem/physics unit each semester)
