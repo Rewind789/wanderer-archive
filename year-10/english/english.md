@@ -11,3 +11,5 @@ We cover Film, Drama and Poetry in Semester 1
 [English Vs Lit](englishvslit.md)
 
 [Language Conventions and Poetic Devices](languageconventions.md)
+
+[English Exam Details (Semester 1]](exam1.md)
