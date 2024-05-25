@@ -46,7 +46,8 @@ These 2 quotes go together. Very suspicious
 21. "I want to have sex with you, Hank" - Mr. Rogers
 22. "Kiefer YUEN, why are u zestier than Harry Huang" - Kieran Ng, "Why is Harry Huang a benchmark for zestiness" - Kiefer Y
 23. "We treat STIs like Pokemon" - Mr. Barton, "Gotta Catch 'Em All" - Kiefer Y
-24. “I am monkey. So very stoopid borangutang I am” - Boran Y (who claims it was Ethan T)
+24. "That math test was such a yapfest" - Harry Huang
+25. “I am monkey. So very stoopid borangutang I am” - Boran Y (who claims it was Ethan T)
 > HE FINALLY ADMITTED IT
 
 25. "Pheasant + duck = phuck" - Kiefer Y
