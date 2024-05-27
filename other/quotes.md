@@ -589,6 +589,7 @@ i dont know why it starts from 3 here but icbb fixing it
 121. "chotto matte kudasai" - Mr Young
 122. "F# Harmonic Natural Minor" - Rutvi K
 123. "I like my women racist" - Jenny W, "I am a racist woman" - Aaron T
+124. "I want to smash you but you don't see my trying" - Donal T, talking to Ari A
 
 
 
