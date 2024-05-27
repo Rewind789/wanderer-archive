@@ -52,6 +52,7 @@ These 2 quotes go together. Very suspicious
 
 25. "Pheasant + duck = phuck" - Kiefer Y
 26. "How did you do ur driving test if you're only 14? (I skipped Grade 3 btw)" - Ari A, "skillfully" - Kiefer Y, "skillfully my ass-" - Ari A
+27. "Do you hate babies? I HATE BABIES" - Kiefer Y, "Actual shits" - Sherry C, "BAD THINGS ALWAYS HAPPEN TO THEM WhEN IM AROUND TwT" - Kiefer Y
 
 The Great Avocado Analogy
 > 
