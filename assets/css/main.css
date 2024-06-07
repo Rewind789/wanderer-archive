@@ -5,8 +5,8 @@
 }
 
 html {
-	margin-right: 55px;
-	margin-left: 275px;
+	/*margin-right: 55px;*/
+	/*margin-left: 275px;*/
 	padding: 0;
 	text-align: justify;
 	background: #FFFFFF; 
@@ -32,7 +32,7 @@ html {
   position: fixed;
   width: 20%;
   margin-top: 0px;
-  margin-left: -300px;
+  /*margin-left: -300px;*/
   height: 110%;
   transform: 0.5s;
   overflow: auto;
@@ -55,7 +55,7 @@ html {
   width: 35px;
   height: 5px;
   background-color: #FF6F6F; /*backup colour: #171D3A*/
-  margin: 6px -250px;
+  margin: 6px 30px;
   transition: 0.5s;
   z-index: 2;
 }
@@ -89,8 +89,8 @@ html {
 .headTitle {
     color: ffffff;
     font-size: 25px;
-    margin-left: -150px;
-    margin-top: -40px;
+    margin-left: 90px;
+    margin-top: -50px;
     font-family: 'Open Sans';
     z-index: 3;
 }
