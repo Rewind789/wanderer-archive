@@ -1,5 +1,5 @@
-document.getElementById("nav").style.display = "none";
-document.getElementById("nav").style.opacity = "0";
+//document.getElementById("nav").style.display = "none";
+//document.getElementById("nav").style.opacity = "0";
 function showNav(x) {
   x.classList.toggle("showNav")
   var k = document.getElementById("nav");
